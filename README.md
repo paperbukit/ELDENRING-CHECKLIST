@@ -2,6 +2,8 @@
 
 Welcome to the **Elden Ring Checklist**! This web app is designed to help you track your progress in the vast and intricate world of Elden Ring. Whether you're completing quests, collecting items, or defeating bosses, this tracker ensures you never miss a step.
 
+![Elden Ring Progress Tracker](./image.png)
+
 ## Features
 
 - **Quest Tracker**: View and manage quests grouped by NPCs. Mark quests as completed and track your progress.
