@@ -57,6 +57,9 @@ Welcome to the **Elden Ring Checklist**! This web app is designed to help you tr
 - `script.js`: Contains shared JavaScript logic.
 - `style.css`: Contains styles for the app.
 
+## Live Demo
+
+Check out the live version of the Elden Ring Progress Tracker: [Elden Ring Checklist](https://eldenringchecklist.netlify.app/)
 
 ## Credits
 
