@@ -57,37 +57,59 @@
       const progressBar = document.getElementById('questProgressBar');
       const progressText = document.getElementById('questProgressText');
       const completionCount = document.getElementById('questsCompletionCount');
-      
+
       // Retrieve quests from localStorage and initialize UI state
       const savedQuests = localStorage.getItem('quests');
+
       if (savedQuests) {
         try {
-          allQuests = JSON.parse(savedQuests);
+          const parsedQuests = JSON.parse(savedQuests);
+
+          // Ensure parsedQuests is an object and transform it into an array
+          if (typeof parsedQuests === 'object' && parsedQuests !== null) {
+            allQuests = Object.entries(parsedQuests).flatMap(([npc, quests]) => {
+              if (Array.isArray(quests)) {
+                return quests.map(quest => ({ ...quest, npc: quest.npc || npc }));
+              } else if (typeof quests === 'object') {
+                return [quests].map(quest => ({ ...quest, npc: quest.npc || npc }));
+              } else {
+                return [];
+              }
+            });
+          } else {
+            allQuests = [];
+          }
+
           renderQuests(allQuests);
           updateProgress();
+
+          const npcs = [...new Set(allQuests.map(quest => quest.npc))].sort();
+          npcs.forEach(npc => {
+            if (npc) {
+              const option = document.createElement('option');
+              option.value = npc.toLowerCase();
+              option.textContent = npc;
+              npcFilter.appendChild(option);
+            }
+          });
         } catch (error) {
-          console.error("Error parsing saved quests from localStorage:", error);
+          allQuests = [];
         }
       } else {
-        // If no saved data, fetch from JSON file
         fetch("quests_cleaned.json")
           .then(res => res.json())
           .then(data => {
             allQuests = Object.entries(data).flatMap(([npc, quests]) => {
               return quests.map(quest => ({ ...quest, npc }));
             });
-            
-            // Clear localStorage and reload data
+
             localStorage.removeItem("quests");
             localStorage.setItem("quests", JSON.stringify(data));
-            
+
             renderQuests(allQuests);
             updateProgress();
-            
-            // Extract NPCs for filter
+
             const npcs = [...new Set(allQuests.map(quest => quest.npc))].sort();
-            
-            // Add NPCs to filter
             npcs.forEach(npc => {
               if (npc) {
                 const option = document.createElement('option');
@@ -97,14 +119,20 @@
               }
             });
           })
-          .catch(err => console.error("Error loading quests:", err));
+          .catch(err => {});
       }
     });
     
     function renderQuests(quests) {
       const container = document.getElementById('questsListContainer');
       container.innerHTML = '';
-      
+
+      // Validate quests data
+      if (!Array.isArray(quests)) {
+        console.error("Invalid quests data format for rendering:", quests);
+        return;
+      }
+
       const groupedQuests = quests.reduce((groups, quest) => {
         const npc = quest.npc && quest.npc.trim() ? quest.npc : 'Unknown NPC';
         if (!groups[npc]) {
@@ -120,20 +148,19 @@
 
         const npcTitle = document.createElement('h2');
         npcTitle.textContent = npc;
-        npcTitle.style.fontSize = '2em'; // Increase NPC title size
+        npcTitle.style.fontSize = '2em';
         groupContainer.appendChild(npcTitle);
 
         groupedQuests[npc].forEach((quest, i) => {
           const questItem = document.createElement('label');
           questItem.className = 'check-item';
-          questItem.style.fontSize = '1.2em'; // Increase quest item text size
+          questItem.style.fontSize = '1.2em';
 
           const checkbox = document.createElement('input');
           checkbox.type = 'checkbox';
           checkbox.id = `quest-${i}`;
           checkbox.checked = quest.completed === 1;
 
-          // Refactor checkbox logic to handle duplicate descriptions
           checkbox.addEventListener('change', () => {
             quest.completed = checkbox.checked ? 1 : 0;
             const questIndex = allQuests.findIndex(q => q.description === quest.description && q.npc === quest.npc && q.location === quest.location);
@@ -141,7 +168,6 @@
               allQuests[questIndex].completed = quest.completed;
             }
 
-            // Update localStorage with the modified allQuests array
             localStorage.setItem('quests', JSON.stringify(allQuests));
             updateProgress();
           });
@@ -151,7 +177,7 @@
             <small>${quest.description || 'No description'}</small>
             ${quest.location ? `<br><small>Location: ${quest.location}</small>` : ''}
           `;
-          content.style.fontSize = '1em'; // Increase content text size
+          content.style.fontSize = '1em';
 
           questItem.appendChild(checkbox);
           questItem.appendChild(content);

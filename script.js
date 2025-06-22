@@ -1,8 +1,10 @@
-const baseURL = 'http://localhost:3000/';
+const baseURL = './';
 
 async function loadChecklist(jsonPath, containerId, barId, fieldsToShow = []) {
   try {
+    console.log("Fetching:", baseURL + jsonPath);
     const res = await fetch(baseURL + jsonPath);
+    console.log("Response:", res);
     const data = await res.json();
     const container = document.getElementById(containerId);
 
@@ -40,6 +42,12 @@ async function loadChecklist(jsonPath, containerId, barId, fieldsToShow = []) {
     document.getElementById(containerId).innerText = "Failed to load checklist.";
     console.error("Checklist load error:", err);
   }
+}
+
+const quests = JSON.parse(localStorage.getItem('quests') || '[]');
+if (!Array.isArray(quests)) {
+  console.error("Invalid quests data:", quests);
+  return;
 }
 
 loadChecklist('quests_cleaned.json', 'questsContainer', 'questsBar', ['npc', 'location']);
