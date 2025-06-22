@@ -1,0 +1,173 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Elden Ring Progress Tracker</title>
+  <link rel="stylesheet" href="style.css">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@400;700&display=swap" rel="stylesheet">
+  <link rel="icon" href="https://static1.srcdn.com/wordpress/wp-content/uploads/2022/12/elden-ring-cover.jpg" type="image/png">
+</head>
+<body>
+  <div class="container fade-in">
+    <nav>
+      <a href="index.html" class="active">Dashboard</a>
+      <a href="quests.html">Quests</a>
+      <a href="items.html">Items</a>
+      <a href="bosses.html">Bosses</a>
+    </nav>
+    
+    <h1>Elden Ring Progress Tracker</h1>
+    
+    <div class="dashboard-grid">
+      <div class="dashboard-card">
+        <h2>Quests Progress</h2>
+        <div class="progress-container">
+          <div class="progress">
+            <div class="progress-bar" id="questProgressBar"></div>
+            <div class="progress-text" id="questProgressText">0%</div>
+          </div>
+          <div class="stat-value" id="questStats">0/0</div>
+          <div class="stat-label">Quests Completed</div>
+          <a href="quests.html" class="btn">View All Quests</a>
+        </div>
+      </div>
+      
+      <div class="dashboard-card">
+        <h2>Bosses Progress</h2>
+        <div class="progress-container">
+          <div class="progress">
+            <div class="progress-bar" id="bossProgressBar"></div>
+            <div class="progress-text" id="bossProgressText">0%</div>
+          </div>
+          <div class="stat-value" id="bossStats">0/0</div>
+          <div class="stat-label">Bosses Defeated</div>
+          <a href="bosses.html" class="btn">View All Bosses</a>
+        </div>
+      </div>
+      
+      <div class="dashboard-card">
+        <h2>Items Progress</h2>
+        <div class="progress-container">
+          <div class="progress">
+            <div class="progress-bar" id="itemProgressBar"></div>
+            <div class="progress-text" id="itemProgressText">0%</div>
+          </div>
+          <div class="stat-value" id="itemStats">0/0</div>
+          <div class="stat-label">Items Collected</div>
+          <a href="items.html" class="btn">View All Items</a>
+        </div>
+      </div>
+    </div>
+    
+    <div class="progress-container">
+      <h2>Overall Progress</h2>
+      <div class="progress">
+        <div class="progress-bar" id="overallProgressBar"></div>
+        <div class="progress-text" id="overallProgressText">0%</div>
+      </div>
+    </div>
+
+    
+
+  <footer>
+    <p>Elden Ring Progress Tracker | paperbukit</p>
+    <div style="display: flex; gap: 15px; justify-content: center; align-items: center;">
+      <a href="https://instagram.com/paperbukit" target="_blank" style="text-decoration: none;"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" style="width: 32px; height: 32px;"></a>
+      <a href="https://x.com/paperbukit" target="_blank" style="text-decoration: none;"><img src="twitter_x_new_logo_square_x_icon_256075.svg" alt="X" style="width: 70px; height: 40px; vertical-align: middle;"></a>
+      <a href="https://github.com/paperbukit" target="_blank" style="text-decoration: none;"><img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="GitHub" style="width: 32px; height: 32px;"></a>
+    </div>
+  </footer>
+
+  <script>
+    // Update progress bar to show percentages up to 2 decimal points
+    function setProgressBar(barId, textId, percent) {
+      const progressBar = document.getElementById(barId);
+      const progressText = document.getElementById(textId);
+
+      progressBar.style.width = percent.toFixed(2) + '%';
+      progressText.textContent = percent.toFixed(2) + '%';
+    }
+
+    // Load data with visual indicators
+    function loadData(jsonFile, storageKey, statsId, barId, textId) {
+      fetch(jsonFile)
+        .then((res) => res.json())
+        .then((data) => {
+          let completed = 0;
+          let total = Array.isArray(data) ? data.length : Object.values(data).reduce((sum, quests) => sum + quests.length, 0);
+
+          // Check localStorage for saved progress
+          const savedData = localStorage.getItem(storageKey);
+          if (savedData) {
+            try {
+              const parsed = JSON.parse(savedData);
+
+              if (Array.isArray(parsed)) {
+                parsed.forEach((entry) => {
+                  if (entry.completed) completed++;
+                });
+              } else {
+                Object.values(parsed).forEach((value) => {
+                  if (value === true) completed++;
+                });
+              }
+            } catch (error) {
+              console.error("Error parsing saved data:", error);
+            }
+          }
+
+          // Update stats display
+          document.getElementById(statsId).innerText = `${completed}/${total}`;
+
+          // Update bar progress
+          const percent = total > 0 ? (completed / total) * 100 : 0;
+          setProgressBar(barId, textId, percent);
+
+          // Update category-specific percentage
+          if (barId === "questProgressBar") questsPercent = percent;
+          else if (barId === "bossProgressBar") bossesPercent = percent;
+          else if (barId === "itemProgressBar") itemsPercent = percent;
+
+          // Update overall progress
+          updateOverallProgress();
+        })
+        .catch((error) => {
+          console.error("Failed to load data:", error);
+          document.getElementById(statsId).innerText = "Error";
+        });
+    }
+
+    // Track overall progress
+    let questsPercent = 0, bossesPercent = 0, itemsPercent = 0;
+    
+    function updateOverallProgress() {
+      // Calculate overall progress
+      const overallPercent = (questsPercent + bossesPercent + itemsPercent) / 3;
+      
+      // Update progress bar
+      const progressBar = document.getElementById('overallProgressBar');
+      const progressText = document.getElementById('overallProgressText');
+      
+      progressBar.style.width = overallPercent + '%';
+      progressText.textContent = Math.round(overallPercent) + '%';
+    }
+
+    // Load all data
+    loadData("quests_cleaned.json", "quests", "questStats", "questProgressBar", "questProgressText");
+    loadData("bosses.json", "bosses", "bossStats", "bossProgressBar", "bossProgressText");
+    loadData("items_clean.json", "items", "itemStats", "itemProgressBar", "itemProgressText");
+
+    // Add fade-in animation to elements
+    document.addEventListener('DOMContentLoaded', () => {
+      const elements = document.querySelectorAll('.dashboard-card, .progress-container');
+      elements.forEach((el, index) => {
+        setTimeout(() => {
+          el.classList.add('fade-in');
+        }, 100 * index);
+      });
+    });
+  </script>
+</body>
+</html>

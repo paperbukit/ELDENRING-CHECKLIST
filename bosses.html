@@ -1,0 +1,176 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Elden Ring - Bosses Tracker</title>
+  <link rel="stylesheet" href="style.css">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@400;700&display=swap" rel="stylesheet">
+  <link rel="icon" href="https://static1.srcdn.com/wordpress/wp-content/uploads/2022/12/elden-ring-cover.jpg" type="image/png">
+</head>
+<body>
+  <div class="container fade-in">
+    <nav>
+      <a href="index.html">Dashboard</a>
+      <a href="quests.html">Quests</a>
+      <a href="items.html">Items</a>
+      <a href="bosses.html" class="active">Bosses</a>
+    </nav>
+
+    <h1>Bosses of the Lands Between</h1>
+    
+    <div class="progress-container">
+      <div class="category-title">
+        <h2>Bosses Progress</h2>
+        <span class="completion-count" id="bossesCompletionCount">0/0</span>
+      </div>
+      <div class="progress">
+        <div class="progress-bar" id="bossProgressBar"></div>
+        <div class="progress-text" id="bossProgressText">0%</div>
+      </div>
+    </div>
+    
+    <div class="search-filter">
+      <input type="text" id="bossSearch" placeholder="Search bosses..." class="search-input">
+      <select id="bossFilter" class="filter-select">
+        <option value="all">All Regions</option>
+        <option value="limgrave">Limgrave</option>
+        <option value="liurnia">Liurnia</option>
+        <option value="caelid">Caelid</option>
+        <option value="altus">Altus Plateau</option>
+        <option value="mountaintops">Mountaintops</option>
+        <option value="underground">Underground</option>
+      </select>
+    </div>
+    
+    <div class="list-container" id="bossesListContainer">
+    </div>
+    
+    <footer>
+      <p>Elden Ring Progress Tracker | paperbukit</p>
+    </footer>
+  </div>
+
+  <script>
+    document.addEventListener('DOMContentLoaded', () => {
+      let allBosses = [];
+      const container = document.getElementById('bossesListContainer');
+      const searchInput = document.getElementById('bossSearch');
+      const regionFilter = document.getElementById('bossFilter');
+      const progressBar = document.getElementById('bossProgressBar');
+      const progressText = document.getElementById('bossProgressText');
+      const completionCount = document.getElementById('bossesCompletionCount');
+      
+      // Load boss data
+      fetch("bosses.json")
+        .then(res => res.json())
+        .then(data => {
+          allBosses = data;
+          
+          // Initialize localStorage if needed
+          if (!localStorage.getItem("bosses")) {
+            localStorage.setItem("bosses", JSON.stringify(data));
+          } else {
+            // Sync local storage with our data
+            const savedData = JSON.parse(localStorage.getItem("bosses"));
+            allBosses.forEach((boss, index) => {
+              if (savedData[index] && savedData[index].completed !== undefined) {
+                boss.completed = savedData[index].completed;
+              }
+            });
+          }
+          
+          renderBosses(allBosses);
+          updateProgress();
+          
+          // Extract regions for filter
+          const regions = [...new Set(allBosses.map(boss => {
+            const location = boss.location.toLowerCase();
+            if (location.includes('limgrave')) return 'limgrave';
+            if (location.includes('liurnia')) return 'liurnia';
+            if (location.includes('caelid')) return 'caelid';
+            if (location.includes('altus')) return 'altus';
+            if (location.includes('mountain')) return 'mountaintops';
+            if (location.includes('underground') || location.includes('siofra') ||
+                location.includes('ainsel') || location.includes('mohgwyn')) return 'underground';
+            return 'other';
+          }))];
+          
+          // Add regions to filter
+          regions.forEach(region => {
+            if (region !== 'other' && !document.querySelector(`option[value="${region}"]`)) {
+              const option = document.createElement('option');
+              option.value = region;
+              option.textContent = region.charAt(0).toUpperCase() + region.slice(1);
+              regionFilter.appendChild(option);
+            }
+          });
+        });
+        
+      // Event listeners for search and filter
+      searchInput.addEventListener('input', filterBosses);
+      regionFilter.addEventListener('change', filterBosses);
+      
+      function filterBosses() {
+        const searchTerm = searchInput.value.toLowerCase();
+        const regionFilter = document.getElementById('bossFilter').value;
+        
+        const filtered = allBosses.filter(boss => {
+          const matchesSearch = boss.name.toLowerCase().includes(searchTerm) || 
+                               boss.location.toLowerCase().includes(searchTerm);
+          
+          const matchesRegion = regionFilter === 'all' || 
+                               boss.location.toLowerCase().includes(regionFilter);
+          
+          return matchesSearch && matchesRegion;
+        });
+        
+        renderBosses(filtered);
+      }
+      
+      function renderBosses(bosses) {
+        container.innerHTML = '';
+        
+        bosses.forEach((boss, i) => {
+          const bossItem = document.createElement('label');
+          bossItem.className = 'check-item';
+          
+          const checkbox = document.createElement('input');
+          checkbox.type = 'checkbox';
+          checkbox.id = `boss-${i}`;
+          checkbox.checked = boss.completed === 1;
+          
+          checkbox.addEventListener('change', () => {
+            boss.completed = checkbox.checked ? 1 : 0;
+            allBosses[i].completed = boss.completed;
+            
+            localStorage.setItem('bosses', JSON.stringify(allBosses));
+            updateProgress();
+          });
+          
+          const content = document.createElement('div');
+          content.innerHTML = `
+            <strong>${boss.name}</strong>
+            <small>Location: ${boss.location}</small>
+          `;
+          
+          bossItem.appendChild(checkbox);
+          bossItem.appendChild(content);
+          container.appendChild(bossItem);
+        });
+      }
+      
+      function updateProgress() {
+        const total = allBosses.length;
+        const completed = allBosses.filter(boss => boss.completed === 1).length;
+        const percent = (total > 0) ? Math.round((completed / total) * 100) : 0;
+        
+        progressBar.style.width = percent + '%';
+        progressText.textContent = percent + '%';
+        completionCount.textContent = `${completed}/${total}`;
+      }
+    });
+  </script>
+</body>
+</html>

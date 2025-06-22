@@ -1,0 +1,204 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Elden Ring - Items Tracker</title>
+  <link rel="stylesheet" href="style.css">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@400;700&display=swap" rel="stylesheet">
+  <link rel="icon" href="https://static1.srcdn.com/wordpress/wp-content/uploads/2022/12/elden-ring-cover.jpg" type="image/png">
+</head>
+<body>
+  <div class="container fade-in">
+    <nav>
+      <a href="index.html">Dashboard</a>
+      <a href="quests.html">Quests</a>
+      <a href="items.html" class="active">Items</a>
+      <a href="bosses.html">Bosses</a>
+    </nav>
+
+    <h1>Legendary Items of the Lands Between</h1>
+    
+    <div class="progress-container">
+      <div class="category-title">
+        <h2>Item Progress</h2>
+        <span class="completion-count" id="itemsCompletionCount">0/0</span>
+      </div>
+      <div class="progress">
+        <div class="progress-bar" id="itemProgressBar"></div>
+        <div class="progress-text" id="itemProgressText">0%</div>
+      </div>
+    </div>
+    
+    <div class="search-filter">
+      <input type="text" id="itemSearch" placeholder="Search items..." class="search-input">
+      <select id="itemFilter" class="filter-select">
+        <option value="all">All Types</option>
+        <option value="weapon">Weapons</option>
+        <option value="talisman">Talismans</option>
+        <option value="armor">Armor</option>
+        <option value="ash">Ashes</option>
+        <option value="spell">Spells</option>
+      </select>
+    </div>
+    
+    <div class="list-container" id="itemsListContainer">
+    </div>
+    
+    <footer>
+      <p>Elden Ring Progress Tracker | paperbukit</p>
+    </footer>
+  </div>
+
+  <script>
+    document.addEventListener('DOMContentLoaded', () => {
+      let allItems = [];
+      const container = document.getElementById('itemsListContainer');
+      const searchInput = document.getElementById('itemSearch');
+      const typeFilter = document.getElementById('itemFilter');
+      const progressBar = document.getElementById('itemProgressBar');
+      const progressText = document.getElementById('itemProgressText');
+      const completionCount = document.getElementById('itemsCompletionCount');
+      
+      // Load item data
+      fetch("items_clean.json")
+        .then(res => res.json())
+        .then(data => {
+          allItems = data;
+          
+          // Initialize localStorage if needed
+          if (!localStorage.getItem("items")) {
+            localStorage.setItem("items", JSON.stringify(data));
+          } else {
+            // Sync local storage with our data
+            const savedData = JSON.parse(localStorage.getItem("items"));
+            allItems.forEach((item, index) => {
+              if (savedData[index] && savedData[index].completed !== undefined) {
+                item.completed = savedData[index].completed;
+              }
+            });
+          }
+          
+          renderItems(allItems);
+          updateProgress();
+          
+          // Extract item types for filter
+          const itemTypes = [...new Set(allItems.map(item => {
+            const name = item.name.toLowerCase();
+            if (name.includes('talisman')) return 'talisman';
+            if (name.includes('weapon') || name.includes('sword') || 
+                name.includes('staff') || name.includes('seal')) return 'weapon';
+            if (name.includes('armor') || name.includes('helm') || 
+                name.includes('chest') || name.includes('gauntlet') || 
+                name.includes('greaves')) return 'armor';
+            if (name.includes('ash') || name.includes('summon')) return 'ash';
+            if (name.includes('spell') || name.includes('sorcery') || 
+                name.includes('incantation')) return 'spell';
+            return 'other';
+          }))].sort();
+          
+          // Add types to filter if not already there
+          itemTypes.forEach(type => {
+            if (!document.querySelector(`option[value="${type}"]`)) {
+              const option = document.createElement('option');
+              option.value = type;
+              option.textContent = type.charAt(0).toUpperCase() + type.slice(1) + 's';
+              typeFilter.appendChild(option);
+            }
+          });
+        });
+        
+      // Event listeners for search and filter
+      searchInput.addEventListener('input', filterItems);
+      typeFilter.addEventListener('change', filterItems);
+      
+      function filterItems() {
+        const searchTerm = searchInput.value.toLowerCase();
+        const typeSelection = typeFilter.value;
+        
+        const filtered = allItems.filter(item => {
+          const matchesSearch = (item.name && item.name.toLowerCase().includes(searchTerm)) || 
+                              (item.location && item.location.toLowerCase().includes(searchTerm)) ||
+                              (item.description && item.description.toLowerCase().includes(searchTerm));
+          
+          let matchesType = typeSelection === 'all';
+          
+          if (!matchesType && item.name) {
+            const name = item.name.toLowerCase();
+            if (typeSelection === 'weapon' && 
+               (name.includes('weapon') || name.includes('sword') || 
+                name.includes('staff') || name.includes('seal'))) {
+              matchesType = true;
+            } else if (typeSelection === 'talisman' && name.includes('talisman')) {
+              matchesType = true;
+            } else if (typeSelection === 'armor' && 
+                      (name.includes('armor') || name.includes('helm') || 
+                       name.includes('chest') || name.includes('gauntlet') || 
+                       name.includes('greaves'))) {
+              matchesType = true;
+            } else if (typeSelection === 'ash' && 
+                      (name.includes('ash') || name.includes('summon'))) {
+              matchesType = true;
+            } else if (typeSelection === 'spell' && 
+                      (name.includes('spell') || name.includes('sorcery') || 
+                       name.includes('incantation'))) {
+              matchesType = true;
+            }
+          }
+          
+          return matchesSearch && matchesType;
+        });
+        
+        renderItems(filtered);
+      }
+      
+      function renderItems(items) {
+        container.innerHTML = '';
+        
+        items.forEach((item, i) => {
+          const itemElement = document.createElement('label');
+          itemElement.className = 'check-item';
+          
+          const checkbox = document.createElement('input');
+          checkbox.type = 'checkbox';
+          checkbox.id = `item-${i}`;
+          checkbox.checked = item.completed === 1;
+          
+          checkbox.addEventListener('change', () => {
+            item.completed = checkbox.checked ? 1 : 0;
+            const index = allItems.findIndex(i => i.name === item.name);
+            if (index !== -1) {
+              allItems[index].completed = item.completed;
+            }
+            
+            localStorage.setItem('items', JSON.stringify(allItems));
+            updateProgress();
+          });
+          
+          const content = document.createElement('div');
+          content.innerHTML = `
+            <strong>${item.name || 'Unknown Item'}</strong>
+            ${item.description ? `<small>${item.description}</small>` : ''}
+            ${item.location ? `<small>Location: ${item.location}</small>` : ''}
+          `;
+          
+          itemElement.appendChild(checkbox);
+          itemElement.appendChild(content);
+          container.appendChild(itemElement);
+        });
+      }
+      
+      function updateProgress() {
+        const total = allItems.length;
+        const completed = allItems.filter(item => item.completed === 1).length;
+        const percent = (total > 0) ? Math.round((completed / total) * 100) : 0;
+        
+        progressBar.style.width = percent + '%';
+        progressText.textContent = percent + '%';
+        completionCount.textContent = `${completed}/${total}`;
+      }
+    });
+  </script>
+</body>
+</html>

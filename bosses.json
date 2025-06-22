@@ -1,0 +1,827 @@
+[
+  {
+    "name": "Beastman of Farum Azula",
+    "location": "Groveside Cave",
+    "defeated": false
+  },
+  {
+    "name": "Bell Bearing Hunter",
+    "location": "Warmaster's Shack",
+    "defeated": false
+  },
+  {
+    "name": "Black Knife Assassin",
+    "location": "Deathtouched Catacombs",
+    "defeated": false
+  },
+  {
+    "name": "Bloodhound Knight Darriwil",
+    "location": "Forlorn Hound Evergaol",
+    "defeated": false
+  },
+  {
+    "name": "Crucible Knight",
+    "location": "Stormhill Evergaol",
+    "defeated": false
+  },
+  {
+    "name": "Death Bird",
+    "location": "Stormhill",
+    "defeated": false
+  },
+  {
+    "name": "Demi-Human Chief Duo",
+    "location": "Coastal Cave",
+    "defeated": false
+  },
+  {
+    "name": "Erdtree Burial Watchdog",
+    "location": "Stormfoot Catacombs",
+    "defeated": false
+  },
+  {
+    "name": "Flying Dragon Agheel",
+    "location": "Lake Agheel",
+    "defeated": false
+  },
+  {
+    "name": "Godrick the Grafted",
+    "location": "Stormveil Castle",
+    "defeated": false
+  },
+  {
+    "name": "Grafted Scion",
+    "location": "Chapel of Anticipation",
+    "defeated": false
+  },
+  {
+    "name": "Grave Warden Duelist",
+    "location": "Murkwater Catacombs",
+    "defeated": false
+  },
+  {
+    "name": "Guardian Golem",
+    "location": "Highroad Cave",
+    "defeated": false
+  },
+  {
+    "name": "Mad Pumpkin Head",
+    "location": "Waypoint Ruins",
+    "defeated": false
+  },
+  {
+    "name": "Margit, the Fell Omen",
+    "location": "Stormveil Castle",
+    "defeated": false
+  },
+  {
+    "name": "Night's Cavalry",
+    "location": "Limgrave",
+    "defeated": false
+  },
+  {
+    "name": "Patches",
+    "location": "Murkwater Cave",
+    "defeated": false
+  },
+  {
+    "name": "Soldier of Godrick",
+    "location": "Fringefolk Hero's Grave",
+    "defeated": false
+  },
+  {
+    "name": "Stonedigger Troll",
+    "location": "Limgrave Tunnels",
+    "defeated": false
+  },
+  {
+    "name": "Tibia Mariner",
+    "location": "Summonwater Village",
+    "defeated": false
+  },
+  {
+    "name": "Tree Sentinel",
+    "location": "Limgrave",
+    "defeated": false
+  },
+  {
+    "name": "Ulcerated Tree Spirit",
+    "location": "Fringefolk Hero's Grave",
+    "defeated": false
+  },
+  {
+    "name": "Ancient Hero of Zamor",
+    "location": "Weeping Evergaol",
+    "defeated": false
+  },
+  {
+    "name": "Cemetery Shade",
+    "location": "Tombsward Catacombs",
+    "defeated": false
+  },
+  {
+    "name": "Death Bird",
+    "location": "Weeping Peninsula",
+    "defeated": false
+  },
+  {
+    "name": "Erdtree Avatar",
+    "location": "Minor Erdtree",
+    "defeated": false
+  },
+  {
+    "name": "Erdtree Burial Watchdog",
+    "location": "Impaler Catacombs",
+    "defeated": false
+  },
+  {
+    "name": "Leonine Misbegotten",
+    "location": "Castle Morne",
+    "defeated": false
+  },
+  {
+    "name": "Miranda the Blighted Bloom",
+    "location": "Tombsward Cave",
+    "defeated": false
+  },
+  {
+    "name": "Night's Cavalry",
+    "location": "Weeping Peninsula",
+    "defeated": false
+  },
+  {
+    "name": "Runebear",
+    "location": "Earthbore Cave",
+    "defeated": false
+  },
+  {
+    "name": "Scaly Misbegotten",
+    "location": "Morne Tunnel",
+    "defeated": false
+  },
+  {
+    "name": "Adan, Thief of Fire",
+    "location": "Malefactor's Evergaol",
+    "defeated": false
+  },
+  {
+    "name": "Alecto, Black Knife Ringleader",
+    "location": "Ringleader's Evergaol",
+    "defeated": false
+  },
+  {
+    "name": "Bell Bearing Hunter",
+    "location": "Church of Vows",
+    "defeated": false
+  },
+  {
+    "name": "Black Knife Assassin",
+    "location": "Black Knife Catacombs",
+    "defeated": false
+  },
+  {
+    "name": "Bloodhound Knight",
+    "location": "Lakeside Crystal Cave",
+    "defeated": false
+  },
+  {
+    "name": "Bols, Carian Knight",
+    "location": "Cuckoo's Evergaol",
+    "defeated": false
+  },
+  {
+    "name": "Cemetery Shade",
+    "location": "Black Knife Catacombs",
+    "defeated": false
+  },
+  {
+    "name": "Cleanrot Knight",
+    "location": "Stillwater Cave",
+    "defeated": false
+  },
+  {
+    "name": "Crystalian Duo",
+    "location": "Academy Crystal Cave",
+    "defeated": false
+  },
+  {
+    "name": "Crystalian",
+    "location": "Raya Lucaria Crystal Tunnel",
+    "defeated": false
+  },
+  {
+    "name": "Death Bird",
+    "location": "Liurnia South",
+    "defeated": false
+  },
+  {
+    "name": "Death Rite Bird",
+    "location": "Central Liurnia",
+    "defeated": false
+  },
+  {
+    "name": "Erdtree Avatar",
+    "location": "Northeast Minor Erdtree",
+    "defeated": false
+  },
+  {
+    "name": "Erdtree Avatar",
+    "location": "Southwest Minor Erdtree",
+    "defeated": false
+  },
+  {
+    "name": "Erdtree Burial Watchdog",
+    "location": "Cliffbottom Catacombs",
+    "defeated": false
+  },
+  {
+    "name": "Glintstone Dragon Adula",
+    "location": "Cathedral of Manus Celes",
+    "defeated": false
+  },
+  {
+    "name": "Glintstone Dragon Smarag",
+    "location": "Lake of Liurnia",
+    "defeated": false
+  },
+  {
+    "name": "Magma Wyrm Makar",
+    "location": "Ruin Strewn Precipice",
+    "defeated": false
+  },
+  {
+    "name": "Night's Cavalry",
+    "location": "Gate Town Bridge",
+    "defeated": false
+  },
+  {
+    "name": "Night's Cavalry",
+    "location": "Bellum Highway",
+    "defeated": false
+  },
+  {
+    "name": "Omenkiller",
+    "location": "Village of the Albinaurics",
+    "defeated": false
+  },
+  {
+    "name": "Onyx Lord",
+    "location": "Royal Grave Evergaol",
+    "defeated": false
+  },
+  {
+    "name": "Red Wolf of Radagon",
+    "location": "Raya Lucaria Academy",
+    "defeated": false
+  },
+  {
+    "name": "Rennala, Queen of the Full Moon!",
+    "location": "Raya Lucaria Academy",
+    "defeated": false
+  },
+  {
+    "name": "Royal Knight Loretta",
+    "location": "Caria Manor",
+    "defeated": false
+  },
+  {
+    "name": "Royal Revenant",
+    "location": "Kingsrealm Ruins",
+    "defeated": false
+  },
+  {
+    "name": "Spirit‑Caller Snail",
+    "location": "Road's End Catacombs",
+    "defeated": false
+  },
+  {
+    "name": "Tibia Mariner",
+    "location": "Liurnia",
+    "defeated": false
+  },
+  {
+    "name": "Battlemage Hugues",
+    "location": "Sellia Evergaol",
+    "defeated": false
+  },
+  {
+    "name": "Beastman of Farum Azula",
+    "location": "Dragonsbarrow Cave",
+    "defeated": false
+  },
+  {
+    "name": "Bell Bearing Hunter",
+    "location": "Isolated Merchant's Shack",
+    "defeated": false
+  },
+  {
+    "name": "Black Blade Kindred",
+    "location": "Bestial Sanctum",
+    "defeated": false
+  },
+  {
+    "name": "Cemetery Shade",
+    "location": "Caelid Catacombs",
+    "defeated": false
+  },
+  {
+    "name": "Cleanrot Knight Duo",
+    "location": "Abandoned Cave",
+    "defeated": false
+  },
+  {
+    "name": "Commander O'Neil",
+    "location": "Aeonia Swamp",
+    "defeated": false
+  },
+  {
+    "name": "Death Rite Bird",
+    "location": "Southern Aeonia Swamp Bank",
+    "defeated": false
+  },
+  {
+    "name": "Decaying Ekzykes",
+    "location": "Caelid Highway South",
+    "defeated": false
+  },
+  {
+    "name": "Elder Dragon Greyoll",
+    "location": "Dragonsbarrow",
+    "defeated": false
+  },
+  {
+    "name": "Erdtree Burial Watchdog Duo",
+    "location": "Minor Erdtree Catacombs",
+    "defeated": false
+  },
+  {
+    "name": "Fallingstar Beast",
+    "location": "Sellia Crystal Tunnel",
+    "defeated": false
+  },
+  {
+    "name": "Flying Dragon Greyll",
+    "location": "Dragonsbarrow Bridge",
+    "defeated": false
+  },
+  {
+    "name": "Frenzied Duelist",
+    "location": "Gaol Cave",
+    "defeated": false
+  },
+  {
+    "name": "Godskin Apostle",
+    "location": "Divine Tower of Caelid",
+    "defeated": false
+  },
+  {
+    "name": "Leonine Misbegotten & Crucible Knight",
+    "location": "Redmane Castle",
+    "defeated": false
+  },
+  {
+    "name": "Mad Pumpkin Head Duo",
+    "location": "Caelem Ruins",
+    "defeated": false
+  },
+  {
+    "name": "Magma Wyrm",
+    "location": "Gael Tunnel",
+    "defeated": false
+  },
+  {
+    "name": "Night's Cavalry",
+    "location": "Caelid Highway South",
+    "defeated": false
+  },
+  {
+    "name": "Night's Cavalry",
+    "location": "Dragonsbarrow East",
+    "defeated": false
+  },
+  {
+    "name": "Nox Swordstress & Nox Priest",
+    "location": "Sellia, Town of Sorcery",
+    "defeated": false
+  },
+  {
+    "name": "Putrid Avatar",
+    "location": "Northwest Minor Erdtree",
+    "defeated": false
+  },
+  {
+    "name": "Putrid Avatar",
+    "location": "Dragonsbarrow Minor Erdtree",
+    "defeated": false
+  },
+  {
+    "name": "Putrid Crystalian Trio",
+    "location": "Sellia Hideaway",
+    "defeated": false
+  },
+  {
+    "name": "Putrid Tree Spirit",
+    "location": "War-Dead Catacombs",
+    "defeated": false
+  },
+  {
+    "name": "Starscourge Radahn",
+    "location": "Redmane Castle",
+    "defeated": false
+  },
+  {
+    "name": "Ancient Dragon Lansseax",
+    "location": "Altus Plateau",
+    "defeated": false
+  },
+  {
+    "name": "Ancient Hero of Zamor",
+    "location": "Sainted Hero's Grave",
+    "defeated": false
+  },
+  {
+    "name": "Black Knife Assassin",
+    "location": "Sainted Hero's Grave",
+    "defeated": false
+  },
+  {
+    "name": "Crystalian Duo",
+    "location": "Altus Tunnel",
+    "defeated": false
+  },
+  {
+    "name": "Demi-Human Queen Gilika",
+    "location": "Lux Ruins",
+    "defeated": false
+  },
+  {
+    "name": "Elemer Of The Briar",
+    "location": "Shaded Castle",
+    "defeated": false
+  },
+  {
+    "name": "Fallingstar Beast",
+    "location": "Leyndell Western Gate",
+    "defeated": false
+  },
+  {
+    "name": "Godefroy The Grafted",
+    "location": "Golden Lineage Evergaol",
+    "defeated": false
+  },
+  {
+    "name": "Godskin Apostle",
+    "location": "Windmill Heights",
+    "defeated": false
+  },
+  {
+    "name": "Miranda & Omenkiller",
+    "location": "Perfumer's Grotto",
+    "defeated": false
+  },
+  {
+    "name": "Night's Cavalry",
+    "location": "Altus Plateau",
+    "defeated": false
+  },
+  {
+    "name": "Sanguine Noble",
+    "location": "Writheblood Ruins",
+    "defeated": false
+  },
+  {
+    "name": "Stonedigger Troll",
+    "location": "Old Altus Tunnel",
+    "defeated": false
+  },
+  {
+    "name": "Tree Sentinel Duo",
+    "location": "Leyndell Western Gate",
+    "defeated": false
+  },
+  {
+    "name": "Wormface",
+    "location": "Minor Erdtree",
+    "defeated": false
+  },
+  {
+    "name": "Abductor Virgins",
+    "location": "Subterranean Inquisition Chamber",
+    "defeated": false
+  },
+  {
+    "name": "Black Knife Assassin",
+    "location": "Sage's Cave",
+    "defeated": false
+  },
+  {
+    "name": "Demi-Human Queen Maggie",
+    "location": "Hermit Village",
+    "defeated": false
+  },
+  {
+    "name": "Demi-Human Queen Margot",
+    "location": "Volcano Cave",
+    "defeated": false
+  },
+  {
+    "name": "Erdtree Burial Watchdog",
+    "location": "Wyndham Catacombs",
+    "defeated": false
+  },
+  {
+    "name": "Full‑Grown Fallingstar Beast",
+    "location": "Mt. Gelmir",
+    "defeated": false
+  },
+  {
+    "name": "Godskin Noble",
+    "location": "Volcano Manor",
+    "defeated": false
+  },
+  {
+    "name": "Kindred of Rot",
+    "location": "Seethewater Cave",
+    "defeated": false
+  },
+  {
+    "name": "Perfumer Tricia & Misbegotten",
+    "location": "Unsightly Catacombs",
+    "defeated": false
+  },
+  {
+    "name": "Magma Wyrm",
+    "location": "Mt. Gelmir Lava Pool",
+    "defeated": false
+  },
+  {
+    "name": "Necromancer Garris",
+    "location": "Sage's Cave",
+    "defeated": false
+  },
+  {
+    "name": "Rykard, Lord of Blasphemy",
+    "location": "Volcano Manor",
+    "defeated": false
+  },
+  {
+    "name": "Red Wolf Of The Champion",
+    "location": "Gelmir Hero's Grave",
+    "defeated": false
+  },
+  {
+    "name": "Tibia Mariner",
+    "location": "Wyndham Ruins",
+    "defeated": false
+  },
+  {
+    "name": "Ulcerated Tree Spirit",
+    "location": "Minor Erdtree",
+    "defeated": false
+  },
+  {
+    "name": "Bell Bearing Hunter",
+    "location": "Hermit Merchant's Shack",
+    "defeated": false
+  },
+  {
+    "name": "Crucible Knight Ordovis & Crucible Knight",
+    "location": "Auriza's Hero Grave",
+    "defeated": false
+  },
+  {
+    "name": "Death Bird",
+    "location": "Hermit Merchant's Shack",
+    "defeated": false
+  },
+  {
+    "name": "Draconic Tree Sentinel",
+    "location": "Capital Entrance",
+    "defeated": false
+  },
+  {
+    "name": "Esgar, Priest of Blood",
+    "location": "Leyndell Catacombs",
+    "defeated": false
+  },
+  {
+    "name": "Fell Twins",
+    "location": "Divine Tower of East Altus",
+    "defeated": false
+  },
+  {
+    "name": "Godfrey, First Elden Lord",
+    "location": "Erdtree Sanctuary",
+    "defeated": false
+  },
+  {
+    "name": "Grave Warden Duelist",
+    "location": "Auriza Side Tomb",
+    "defeated": false
+  },
+  {
+    "name": "Morgott, the Omen King!",
+    "location": "Elden Throne",
+    "defeated": false
+  },
+  {
+    "name": "Mohg, The Omen",
+    "location": "Subterranean Shunning Grounds",
+    "defeated": false
+  },
+  {
+    "name": "Onyx Lord",
+    "location": "Sealed Tunnel",
+    "defeated": false
+  },
+  {
+    "name": "Astel, Stars of Darkness",
+    "location": "Yelough Anix Tunnel",
+    "defeated": false
+  },
+  {
+    "name": "Death Rite Bird",
+    "location": "West Mountaintops",
+    "defeated": false
+  },
+  {
+    "name": "Great Wrym Theodorix",
+    "location": "Outside Cave of the Forlorn",
+    "defeated": false
+  },
+  {
+    "name": "Misbegotten Crusader",
+    "location": "Cave of the Forlorn",
+    "defeated": false
+  },
+  {
+    "name": "Night's Cavalry Duo",
+    "location": "Inner Consecrated Snowfields",
+    "defeated": false
+  },
+  {
+    "name": "Putrid Grave Warden Duelist",
+    "location": "Consecrated Snowfield Catacombs",
+    "defeated": false
+  },
+  {
+    "name": "Stray Mimic Tear",
+    "location": "Hidden Path to the Haligtree",
+    "defeated": false
+  },
+  {
+    "name": "Ancient Hero of Zamor",
+    "location": "Giant-Conquering Hero's Grave",
+    "defeated": false
+  },
+  {
+    "name": "Borealis the Freezing Fog",
+    "location": "Freezing Lake",
+    "defeated": false
+  },
+  {
+    "name": "Blackblade Kindred",
+    "location": "Forbidden Lands",
+    "defeated": false
+  },
+  {
+    "name": "Commander Niall",
+    "location": "Castle Sol",
+    "defeated": false
+  },
+  {
+    "name": "Death Rite Bird",
+    "location": "Snow Valley",
+    "defeated": false
+  },
+  {
+    "name": "Erdtree Avatar",
+    "location": "Minor Erdtree",
+    "defeated": false
+  },
+  {
+    "name": "Fire Giant!",
+    "location": "Flame Peak",
+    "defeated": false
+  },
+  {
+    "name": "Godskin Apostle & Godskin Noble",
+    "location": "Spiritcallers Cave",
+    "defeated": false
+  },
+  {
+    "name": "Night's Cavalry",
+    "location": "Forbidden Lands",
+    "defeated": false
+  },
+  {
+    "name": "Roundtable Knight Vyke",
+    "location": "Lord Contender's Evergaol",
+    "defeated": false
+  },
+  {
+    "name": "Ulcerated Tree Spirit",
+    "location": "Giants' Mountaintops Catacombs",
+    "defeated": false
+  },
+  {
+    "name": "Loretta, Knight of the Haligtree",
+    "location": "Miquella's Haligtree",
+    "defeated": false
+  },
+  {
+    "name": "Malenia, Blade of Miquella!",
+    "location": "Haligtree Roots",
+    "defeated": false
+  },
+  {
+    "name": "Hoarah Loux, Warrior!",
+    "location": "Ashen Capital",
+    "defeated": false
+  },
+  {
+    "name": "Sir Gideon Ofnir, the All-Knowing",
+    "location": "Ashen Capital",
+    "defeated": false
+  },
+  {
+    "name": "Ancestor Spirit",
+    "location": "Hallowhorn Grounds",
+    "defeated": false
+  },
+  {
+    "name": "Dragonkin Soldier",
+    "location": "Soifra River Waterfall",
+    "defeated": false
+  },
+  {
+    "name": "Dragonkin Soldier of Nokstella",
+    "location": "Ainsel Throne",
+    "defeated": false
+  },
+  {
+    "name": "Godskin Duo",
+    "location": "Dragon Temple",
+    "defeated": false
+  },
+  {
+    "name": "Maliketh, the Black Blade!",
+    "location": "Great Bridge",
+    "defeated": false
+  },
+  {
+    "name": "Dragonlord Placidusax!",
+    "location": "Secret Area",
+    "defeated": false
+  },
+  {
+    "name": "Radagon of the Golden Order / Elden Beast!",
+    "location": "Elden Throne",
+    "defeated": false
+  },
+  {
+    "name": "Mimic Tear",
+    "location": "Nokron, Eternal City",
+    "defeated": false
+  },
+  {
+    "name": "Regal Ancestor Spirit!",
+    "location": "Hallowhorn Grounds",
+    "defeated": false
+  },
+  {
+    "name": "Valiant Gargoyle Duo",
+    "location": "Siofra Aqueduct",
+    "defeated": false
+  },
+  {
+    "name": "Astel, Naturalborn of the Void!",
+    "location": "Grand Cloister",
+    "defeated": false
+  },
+  {
+    "name": "Dragonkin Soldier",
+    "location": "Lake of Rot",
+    "defeated": false
+  },
+  {
+    "name": "Mohg, Lord of Blood!",
+    "location": "Mohgwyn Dynasty Mausoleum",
+    "defeated": false
+  },
+  {
+    "name": "Crucible Knight Siluria",
+    "location": "Deeproot Depths",
+    "defeated": false
+  },
+  {
+    "name": "Fia's Champions",
+    "location": "Prince of Death's Throne",
+    "defeated": false
+  },
+  {
+    "name": "Lichdragon Fortissax!",
+    "location": "Prince of Death's Throne",
+    "defeated": false
+  }
+]

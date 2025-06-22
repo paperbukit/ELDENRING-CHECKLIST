@@ -1,0 +1,2540 @@
+{
+  "White-Faced Varre": [
+    {
+      "description": "Exhaust Varre's dialogue at The First Step Site of Grace.",
+      "completed": 0,
+      "location": "Limgrave",
+      "link": "https://eldenring.wiki.fextralife.com/White+Mask+Varre",
+      "npc": "White-Faced Varre"
+    },
+    {
+      "description": "Exhaust everyone's dialogue at the Roundtable Hold.",
+      "completed": 0,
+      "location": "Roundtable Hold",
+      "link": "https://eldenring.wiki.fextralife.com/White+Mask+Varre",
+      "npc": "White-Faced Varre"
+    },
+    {
+      "description": "Exhaust Varre's dialogue at The First Step Site of Grace, again.",
+      "completed": 0,
+      "location": "Limgrave",
+      "link": "https://eldenring.wiki.fextralife.com/White+Mask+Varre",
+      "npc": "White-Faced Varre"
+    },
+    {
+      "description": "Defeat Godrick the Grafted.",
+      "completed": 0,
+      "location": "Limgrave",
+      "link": "https://eldenring.wiki.fextralife.com/White+Mask+Varre",
+      "npc": "White-Faced Varre"
+    },
+    {
+      "description": "Exhaust Enia's dialogue at the Roundtable Hold.",
+      "completed": 0,
+      "location": "Roundtable Hold",
+      "link": "https://eldenring.wiki.fextralife.com/White+Mask+Varre",
+      "npc": "White-Faced Varre"
+    },
+    {
+      "description": "Exhaust Varre's dialogue at Rose Church.",
+      "completed": 0,
+      "location": "Liurnia of the Lakes",
+      "link": "https://eldenring.wiki.fextralife.com/White+Mask+Varre",
+      "npc": "White-Faced Varre"
+    },
+    {
+      "description": "Use Festering Bloody Finger to perform 3 invasions (success/failure has no impact).",
+      "completed": 0,
+      "location": "Liurnia of the Lakes",
+      "link": "https://eldenring.wiki.fextralife.com/White+Mask+Varre",
+      "npc": "White-Faced Varre"
+    },
+    {
+      "description": "Soak the Lord of Blood’s Favor in the blood of a maiden, Church of Inhibition.",
+      "completed": 0,
+      "location": "Liurnia of the Lakes",
+      "link": "https://eldenring.wiki.fextralife.com/Church+of+Inhibition",
+      "npc": "White-Faced Varre"
+    },
+    {
+      "description": "Give Varre the Bloodied Lord of Blood’s Favor.",
+      "completed": 0,
+      "location": "Liurnia of the Lakes",
+      "link": "https://eldenring.wiki.fextralife.com/White+Mask+Varre",
+      "npc": "White-Faced Varre"
+    },
+    {
+      "description": "He'll give you a reusable Bloody Finger, and the Pureblood Knight's Medal.",
+      "completed": 0,
+      "location": "Liurnia of the Lakes",
+      "link": "https://eldenring.wiki.fextralife.com/White+Mask+Varre",
+      "npc": "White-Faced Varre"
+    },
+    {
+      "description": "He'll invade 3 times in the blood swamp, kill him to get his armour set",
+      "completed": 0,
+      "location": "Liurnia of the Lakes",
+      "link": "https://eldenring.wiki.fextralife.com/White+Mask+Varre",
+      "npc": "White-Faced Varre"
+    },
+    {
+      "description": "Use the red sign near the Mausoleum Dynasty Midpoint Site of Grace to duel him.",
+      "completed": 0,
+      "location": "Mohgwyn Palace",
+      "link": "https://eldenring.wiki.fextralife.com/White+Mask+Varre",
+      "npc": "White-Faced Varre"
+    },
+    {
+      "description": "Reload, speak to Varre again to receive Bouquet",
+      "completed": 0,
+      "location": "Mohgwyn Palace",
+      "link": "https://eldenring.wiki.fextralife.com/White+Mask+Varre",
+      "npc": "White-Faced Varre"
+    }
+  ],
+  "Boc the Seamster": [
+    {
+      "description": "Free Boc from his tree form in Limgrave. Can be found south of the Agheel Lake North grace.",
+      "completed": 0,
+      "location": "Limgrave",
+      "link": "https://eldenring.wiki.fextralife.com/Boc+the+Seamster",
+      "npc": "Boc the Seamster"
+    },
+    {
+      "description": "Talk to Boc at the Coastal Cave. Defeat the boss of the cave and return to him.",
+      "completed": 0,
+      "location": "Limgrave",
+      "link": "https://eldenring.wiki.fextralife.com/Boc+the+Seamster",
+      "npc": "Boc the Seamster"
+    },
+    {
+      "description": "Give Boc his sewing tools",
+      "completed": 0,
+      "location": "Limgrave",
+      "link": "https://eldenring.wiki.fextralife.com/Boc+the+Seamster",
+      "npc": "Boc the Seamster"
+    },
+    {
+      "description": "Boc will move to the Lake-Facing Cliffs Site of Grace, at Liurnia of the Lakes. Reload",
+      "completed": 0,
+      "location": "Liurnia of the Lakes",
+      "link": "https://eldenring.wiki.fextralife.com/Boc+the+Seamster",
+      "npc": "Boc the Seamster"
+    },
+    {
+      "description": "Boc will move to the East Raya Lucaria Gate site of grace. You can give him a Golden Needle.",
+      "completed": 0,
+      "location": "Liurnia of the Lakes",
+      "link": "https://eldenring.wiki.fextralife.com/Boc+the+Seamster",
+      "npc": "Boc the Seamster"
+    },
+    {
+      "description": "Boc will move to the Altus Highway Junction site of grace",
+      "completed": 0,
+      "location": "Altus Plateau",
+      "link": "https://eldenring.wiki.fextralife.com/Boc+the+Seamster",
+      "npc": "Boc the Seamster"
+    },
+    {
+      "description": "Boc will move to the East Capital Rampart site of grace.",
+      "completed": 0,
+      "location": "Leyndell Royal Capital",
+      "link": "https://eldenring.wiki.fextralife.com/Boc+the+Seamster",
+      "npc": "Boc the Seamster"
+    },
+    {
+      "description": "Boc will voice his desire to be rebirthed by Rennala. Two choices to proceed:",
+      "completed": 0,
+      "location": "Leyndell Royal Capital",
+      "link": "https://eldenring.wiki.fextralife.com/Boc+the+Seamster",
+      "npc": "Boc the Seamster"
+    },
+    {
+      "description": "01 Give him a Larval Tear. Reload, Boc will appear next to Rennala. Reload again, will make him die.",
+      "completed": 0,
+      "location": "Leyndell Royal Capital",
+      "link": "https://eldenring.wiki.fextralife.com/Boc+the+Seamster",
+      "npc": "Boc the Seamster"
+    },
+    {
+      "description": "02 Use You're Beautiful Prattling Pate in front of him, then discuss it (unknown if quest continues after this).",
+      "completed": 0,
+      "location": "Leyndell Royal Capital",
+      "link": "https://eldenring.wiki.fextralife.com/Boc+the+Seamster",
+      "npc": "Boc the Seamster"
+    }
+  ],
+  "Roderika": [
+    {
+      "description": "Exhaust her dialogue at Stormhill Shack in Limgrave",
+      "completed": 0,
+      "location": "Limgrave",
+      "link": "https://eldenring.wiki.fextralife.com/Roderika",
+      "npc": "Roderika"
+    },
+    {
+      "description": "Obtain Chrysalids' Memento from Stormveil Castle",
+      "completed": 0,
+      "location": "Limgrave",
+      "link": "https://eldenring.wiki.fextralife.com/Roderika",
+      "npc": "Roderika"
+    },
+    {
+      "description": "Give her the memento",
+      "completed": 0,
+      "location": "Roundtable Hold",
+      "link": "https://eldenring.wiki.fextralife.com/Roderika",
+      "npc": "Roderika"
+    },
+    {
+      "description": "Talk to her and Smithing Master Hewg several times in Roundtable Hold.",
+      "completed": 0,
+      "location": "Roundtable Hold",
+      "link": "https://eldenring.wiki.fextralife.com/Roderika",
+      "npc": "Roderika"
+    },
+    {
+      "description": "Return to where you found the Chrysalids' Memento to find the Crimson Hood",
+      "completed": 0,
+      "location": "Limgrave",
+      "link": "https://eldenring.wiki.fextralife.com/Roderika",
+      "npc": "Roderika"
+    },
+    {
+      "description": "After a major story event involving the Erdtree, she moves to the fireplace in the round table.",
+      "completed": 0,
+      "location": "Roundtable Hold",
+      "link": "https://eldenring.wiki.fextralife.com/Roderika",
+      "npc": "Roderika"
+    }
+  ],
+  "D, Hunter of the Dead": [
+    {
+      "description": "Talk to him in Stormhill, past the Saintsbridge. He will talk about the enemies in Summonwater Village Ruins.",
+      "completed": 0,
+      "location": "Limgrave",
+      "link": "https://eldenring.wiki.fextralife.com/D,+Hunter+of+the+Dead",
+      "npc": "D, Hunter of the Dead"
+    },
+    {
+      "description": "Defeat the enemies and go back to D to continue the quest.",
+      "completed": 0,
+      "location": "Limgrave",
+      "link": "https://eldenring.wiki.fextralife.com/D,+Hunter+of+the+Dead",
+      "npc": "D, Hunter of the Dead"
+    },
+    {
+      "description": "He will then give the location for the Sending gate in the to the Bestial Sanctum and meet Gurranq.",
+      "completed": 0,
+      "location": "Limgrave",
+      "link": "https://eldenring.wiki.fextralife.com/D,+Hunter+of+the+Dead",
+      "npc": "D, Hunter of the Dead"
+    },
+    {
+      "description": "Defeat a Tibia Mariner boss",
+      "completed": 0,
+      "location": "Limgrave",
+      "link": "https://eldenring.wiki.fextralife.com/D,+Hunter+of+the+Dead",
+      "npc": "D, Hunter of the Dead"
+    },
+    {
+      "description": "Obtain the map to Bestial Sanctum",
+      "completed": 0,
+      "location": "Limgrave",
+      "link": "https://eldenring.wiki.fextralife.com/D,+Hunter+of+the+Dead",
+      "npc": "D, Hunter of the Dead"
+    },
+    {
+      "description": "He will appear in the Roundtable Hold, sitting in a chair. He will sell some spells to you.",
+      "completed": 0,
+      "location": "Roundtable Hold",
+      "link": "https://eldenring.wiki.fextralife.com/D,+Hunter+of+the+Dead",
+      "npc": "D, Hunter of the Dead"
+    },
+    {
+      "description": "Give him the Weathered Dagger you get from Fia's questline. Reload area. D's questline ends here.",
+      "completed": 0,
+      "location": "Roundtable Hold",
+      "link": "https://eldenring.wiki.fextralife.com/D,+Hunter+of+the+Dead",
+      "npc": "D, Hunter of the Dead"
+    },
+    {
+      "description": "You can find his twin brother just before the arena for the Valiant Gargoyle boss in Nokron.",
+      "completed": 0,
+      "location": "Nokron, Eternal City",
+      "link": "https://eldenring.wiki.fextralife.com/D,+Hunter+of+the+Dead",
+      "npc": "D, Hunter of the Dead"
+    },
+    {
+      "description": "You will receive the Inner Order gesture upon interacting with him.",
+      "completed": 0,
+      "location": "Nokron, Eternal City",
+      "link": "https://eldenring.wiki.fextralife.com/D,+Hunter+of+the+Dead",
+      "npc": "D, Hunter of the Dead"
+    },
+    {
+      "description": "D's armour can optionally be given to his brother. If you do, he will appear again near the end of Fia's quest line.",
+      "completed": 0,
+      "location": "Deeproot Depths",
+      "link": "https://eldenring.wiki.fextralife.com/D,+Hunter+of+the+Dead",
+      "npc": "D, Hunter of the Dead"
+    },
+    {
+      "description": "If you don't, he will remain on the balcony where first encountered.",
+      "completed": 0,
+      "location": "Nokron, Eternal City",
+      "link": "https://eldenring.wiki.fextralife.com/D,+Hunter+of+the+Dead",
+      "npc": "D, Hunter of the Dead"
+    }
+  ],
+  "Gurranq, Beast Clergyman": [
+    {
+      "description": "Talk to him at Bestial Sanctum after doing D, Hunter of the Dead's Quest.",
+      "completed": 0,
+      "location": "Caelid",
+      "link": "https://eldenring.wiki.fextralife.com/Gurranq+Beast+Clergyman",
+      "npc": "Gurranq, Beast Clergyman"
+    },
+    {
+      "description": "He can be fed Deathroot, up to a maximum of nine (9) times, in exchange for Bestial-related items.",
+      "completed": 0,
+      "location": "Caelid",
+      "link": "https://eldenring.wiki.fextralife.com/Gurranq+Beast+Clergyman",
+      "npc": "Gurranq, Beast Clergyman"
+    },
+    {
+      "description": "Collect Deathroot 01 Deathtouched Catacombs",
+      "completed": 0,
+      "location": "Limgrave",
+      "link": "https://eldenring.wiki.fextralife.com/Deathtouched+Catacombs",
+      "npc": "Gurranq, Beast Clergyman"
+    },
+    {
+      "description": "Collect Deathroot 02 Black Knife Catacombs",
+      "completed": 0,
+      "location": "Liurnia of the Lakes",
+      "link": "https://eldenring.wiki.fextralife.com/Black+Knife+Catacombs",
+      "npc": "Gurranq, Beast Clergyman"
+    },
+    {
+      "description": "Collect Deathroot 03 Summonwater Village",
+      "completed": 0,
+      "location": "Limgrave",
+      "link": "https://eldenring.wiki.fextralife.com/Summonwater+Village",
+      "npc": "Gurranq, Beast Clergyman"
+    },
+    {
+      "description": "Collect Deathroot 04 Wyndham Ruins",
+      "completed": 0,
+      "location": "Mt. Gelmir",
+      "link": "https://eldenring.wiki.fextralife.com/Wyndham+Ruins",
+      "npc": "Gurranq, Beast Clergyman"
+    },
+    {
+      "description": "Collect Deathroot 05 East Liurnia of the Lakes",
+      "completed": 0,
+      "location": "Liurnia of the Lakes",
+      "link": "https://eldenring.wiki.fextralife.com/Liurnia+of+the+Lakes",
+      "npc": "Gurranq, Beast Clergyman"
+    },
+    {
+      "description": "Collect Deathroot 06 Castle Sol Main Gate",
+      "completed": 0,
+      "location": "Mountaintops of the Giants",
+      "link": "https://eldenring.wiki.fextralife.com/Castle+Sol",
+      "npc": "Gurranq, Beast Clergyman"
+    },
+    {
+      "description": "Collect Deathroot 07 Gelmir Hero's Grave",
+      "completed": 0,
+      "location": "Mt. Gelmir",
+      "link": "https://eldenring.wiki.fextralife.com/Gelmir+Hero's+Grave",
+      "npc": "Gurranq, Beast Clergyman"
+    },
+    {
+      "description": "Collect Deathroot 08 Hidden Path to the Haligtree",
+      "completed": 0,
+      "location": "Miquella's Haligtree & Elphael, Brace of the Haligtree",
+      "link": "https://eldenring.wiki.fextralife.com/Hidden+Path+to+the+Haligtree",
+      "npc": "Gurranq, Beast Clergyman"
+    },
+    {
+      "description": "Collect Deathroot 09 Giants' Mountaintop Catacombs",
+      "completed": 0,
+      "location": "Mountaintops of the Giants",
+      "link": "https://eldenring.wiki.fextralife.com/Giants'+Mountaintop+Catacombs",
+      "npc": "Gurranq, Beast Clergyman"
+    },
+    {
+      "description": "Return all Deathroots to Gurranq",
+      "completed": 0,
+      "location": "Caelid",
+      "link": "https://eldenring.wiki.fextralife.com/Gurranq+Beast+Clergyman",
+      "npc": "Gurranq, Beast Clergyman"
+    }
+  ],
+  "Thops": [
+    {
+      "description": "Talk to Thops at Church of Irith. This NPC moves and becomes unavailable if given Academy Glintstone Key",
+      "completed": 0,
+      "location": "Liurnia of the Lakes",
+      "link": "https://eldenring.wiki.fextralife.com/Thops",
+      "npc": "Thops"
+    },
+    {
+      "description": "Collect Glintstone Key near Glintstone Dragon Smarag",
+      "completed": 0,
+      "location": "Liurnia of the Lakes",
+      "link": "https://eldenring.wiki.fextralife.com/Thops",
+      "npc": "Thops"
+    },
+    {
+      "description": "Give Thops Glintstone Key",
+      "completed": 0,
+      "location": "Liurnia of the Lakes",
+      "link": "https://eldenring.wiki.fextralife.com/Thops",
+      "npc": "Thops"
+    },
+    {
+      "description": "Reload, a Teardrop Scarab can be found in the church. Thops will then move to Raya Lucaria Academy.",
+      "completed": 0,
+      "location": "Liurnia of the Lakes",
+      "link": "https://eldenring.wiki.fextralife.com/Thops",
+      "npc": "Thops"
+    },
+    {
+      "description": "Doing his quest will reward you with the Erudition Gesture - vital for completing several tower puzzles.",
+      "completed": 0,
+      "location": "Liurnia of the Lakes",
+      "link": "https://eldenring.wiki.fextralife.com/Thops",
+      "npc": "Thops"
+    }
+  ],
+  "Lightseeker Hyetta": [
+    {
+      "description": "Talk to her at Lake-Facing Cliffs Site of Grace",
+      "completed": 0,
+      "location": "Liurnia of the Lakes",
+      "link": "https://eldenring.wiki.fextralife.com/Hyetta",
+      "npc": "Lightseeker Hyetta"
+    },
+    {
+      "description": "Giver her Shabriri Grapes. Rewards you with the As You Wish Gesture. (3 Grapes)",
+      "completed": 0,
+      "location": "Liurnia of the Lakes",
+      "link": "https://eldenring.wiki.fextralife.com/Shabriri+Grape",
+      "npc": "Lightseeker Hyetta"
+    },
+    {
+      "description": "One can be found near a spirit NPC at Godrick's throne room at Stormveil Castle",
+      "completed": 0,
+      "location": "Limgrave",
+      "link": "https://eldenring.wiki.fextralife.com/Shabriri+Grape",
+      "npc": "Lightseeker Hyetta"
+    },
+    {
+      "description": "Can be found on the lower level of the Purified Ruins. Attack large plank of wood to clear ingress.",
+      "completed": 0,
+      "location": "Liurnia of the Lakes",
+      "link": "https://eldenring.wiki.fextralife.com/Shabriri+Grape",
+      "npc": "Lightseeker Hyetta"
+    },
+    {
+      "description": "One is dropped by Edgar the Revenger, an NPC invader found at the Revenger's Shack in western Liurnia.",
+      "completed": 0,
+      "location": "Liurnia of the Lakes",
+      "link": "https://eldenring.wiki.fextralife.com/Edgar+the+Revenger",
+      "npc": "Lightseeker Hyetta"
+    },
+    {
+      "description": "Find her in the western side of the Purified Ruins. She asks for another Shabriri Grape",
+      "completed": 0,
+      "location": "Liurnia of the Lakes",
+      "link": "https://eldenring.wiki.fextralife.com/Shabriri+Grape",
+      "npc": "Lightseeker Hyetta"
+    },
+    {
+      "description": "Found a little north of the Gate Town Bridge site of grace. She asks for another Shabriri Grape.",
+      "completed": 0,
+      "location": "Liurnia of the Lakes",
+      "link": "https://eldenring.wiki.fextralife.com/Shabriri+Grape",
+      "npc": "Lightseeker Hyetta"
+    },
+    {
+      "description": "Moves to Bellum Church and ask for a Fingerprint Grape.",
+      "completed": 0,
+      "location": "Liurnia of the Lakes",
+      "link": "https://eldenring.wiki.fextralife.com/Shabriri+Grape",
+      "npc": "Lightseeker Hyetta"
+    },
+    {
+      "description": "Defeat Festering Fingerprint Vyke near the Church of Inhibition for Fingerprint Grape, give it to Hyetta.",
+      "completed": 0,
+      "location": "Liurnia of the Lakes",
+      "link": "https://eldenring.wiki.fextralife.com/Shabriri+Grape",
+      "npc": "Lightseeker Hyetta"
+    },
+    {
+      "description": "Final location is the Frenzied Flame Proscription.",
+      "completed": 0,
+      "location": "Liurnia of the Lakes",
+      "link": "https://eldenring.wiki.fextralife.com/Shabriri+Grape",
+      "npc": "Lightseeker Hyetta"
+    },
+    {
+      "description": "Accepting the three fingers flame she becomes your finger maiden, replacing Melina.",
+      "completed": 0,
+      "location": "Liurnia of the Lakes",
+      "link": "https://eldenring.wiki.fextralife.com/Shabriri+Grape",
+      "npc": "Lightseeker Hyetta"
+    }
+  ],
+  "Kenneth Haight": [
+    {
+      "description": "Meet him in the northern area of Mistwood and exhaust his dialogue",
+      "completed": 0,
+      "location": "Limgrave",
+      "link": "https://eldenring.wiki.fextralife.com/Kenneth+Haight",
+      "npc": "Kenneth Haight"
+    },
+    {
+      "description": "Liberate Fort Haight",
+      "completed": 0,
+      "location": "Limgrave",
+      "link": "https://eldenring.wiki.fextralife.com/Kenneth+Haight",
+      "npc": "Kenneth Haight"
+    },
+    {
+      "description": "Return to him for your reward: Erdsteel Dagger",
+      "completed": 0,
+      "location": "Limgrave",
+      "link": "https://eldenring.wiki.fextralife.com/Kenneth+Haight",
+      "npc": "Kenneth Haight"
+    },
+    {
+      "description": "Accept his Accord",
+      "completed": 0,
+      "location": "Limgrave",
+      "link": "https://eldenring.wiki.fextralife.com/Kenneth+Haight",
+      "npc": "Kenneth Haight"
+    },
+    {
+      "description": "Exhaust his dialogue at Fort Haight.",
+      "completed": 0,
+      "location": "Limgrave",
+      "link": "https://eldenring.wiki.fextralife.com/Kenneth+Haight",
+      "npc": "Kenneth Haight"
+    },
+    {
+      "description": "Defeat Godrick and proceed with Nepheli Loux's questline. Defeat Morgott as well.",
+      "completed": 0,
+      "location": "Limgrave",
+      "link": "https://eldenring.wiki.fextralife.com/Kenneth+Haight",
+      "npc": "Kenneth Haight"
+    },
+    {
+      "description": "Collect The Stormhawk King, at the Chapel of Anticipation upon return. Accessed by The Four Belfries.",
+      "completed": 0,
+      "location": "Liurnia of the Lakes",
+      "link": "https://eldenring.wiki.fextralife.com/Kenneth+Haight",
+      "npc": "Kenneth Haight"
+    },
+    {
+      "description": "Instead of giving her Seluvis's potion, give her the Stormhawk King and exhaust her dialogue.",
+      "completed": 0,
+      "location": "Limgrave",
+      "link": "https://eldenring.wiki.fextralife.com/Kenneth+Haight",
+      "npc": "Kenneth Haight"
+    },
+    {
+      "description": "Travel to Godrick's grace, Reload. Kenneth and Nepheli can then be found inside the throne room.",
+      "completed": 0,
+      "location": "Limgrave",
+      "link": "https://eldenring.wiki.fextralife.com/Kenneth+Haight",
+      "npc": "Kenneth Haight"
+    }
+  ],
+  "Ranni the Witch": [
+    {
+      "description": "After you gain access to Torrent, head to the Church of Elleh at night to meet Renna/Ranni",
+      "completed": 0,
+      "location": "Limgrave",
+      "link": "https://eldenring.wiki.fextralife.com/Ranni+the+Witch",
+      "npc": "Ranni the Witch"
+    },
+    {
+      "description": "Meet Ranni in Ranni's Rise",
+      "completed": 0,
+      "location": "Liurnia of the Lakes",
+      "link": "https://eldenring.wiki.fextralife.com/Ranni+the+Witch",
+      "npc": "Ranni the Witch"
+    },
+    {
+      "description": "Have her agree to let you serve her. This may require the Black Knifeprint",
+      "completed": 0,
+      "location": "Liurnia of the Lakes",
+      "link": "https://eldenring.wiki.fextralife.com/Black+Knifeprint",
+      "npc": "Ranni the Witch"
+    },
+    {
+      "description": "Talk to Blaidd, Iji, and Seluvis before returning to talk to Ranni",
+      "completed": 0,
+      "location": "Liurnia of the Lakes",
+      "link": "https://eldenring.wiki.fextralife.com/Ranni+the+Witch",
+      "npc": "Ranni the Witch"
+    },
+    {
+      "description": "Find Blaidd in the Siofra River area.",
+      "completed": 0,
+      "location": "Siofra River",
+      "link": "https://eldenring.wiki.fextralife.com/Ranni+the+Witch",
+      "npc": "Ranni the Witch"
+    },
+    {
+      "description": "Talk to Selvius to gain Seluvis's Introduction, and take the item to Sellen in Waypoint Ruins",
+      "completed": 0,
+      "location": "Liurnia of the Lakes",
+      "link": "https://eldenring.wiki.fextralife.com/Ranni+the+Witch",
+      "npc": "Ranni the Witch"
+    },
+    {
+      "description": "Defeat Starscourge Radahn, this will lead to a falling star crashing into a field south of Mistwood",
+      "completed": 0,
+      "location": "Caelid",
+      "link": "https://eldenring.wiki.fextralife.com/Ranni+the+Witch",
+      "npc": "Ranni the Witch"
+    },
+    {
+      "description": "Drop down into the resulting crater and navigate to Nokron",
+      "completed": 0,
+      "location": "Limgrave",
+      "link": "https://eldenring.wiki.fextralife.com/Ranni+the+Witch",
+      "npc": "Ranni the Witch"
+    },
+    {
+      "description": "Reach Night's Sacred Ground and collect the Fingerslayer Blade",
+      "completed": 0,
+      "location": "Nokron, Eternal City",
+      "link": "https://eldenring.wiki.fextralife.com/Ranni+the+Witch",
+      "npc": "Ranni the Witch"
+    },
+    {
+      "description": "Return the Fingerslayer Blade to Ranni and collect the Carian Inverted Statue",
+      "completed": 0,
+      "location": "Liurnia of the Lakes",
+      "link": "https://eldenring.wiki.fextralife.com/Ranni+the+Witch",
+      "npc": "Ranni the Witch"
+    },
+    {
+      "description": "Go to the Carian Study Hall, and use the statue to reach the top of the Divine Tower of Liurnia",
+      "completed": 0,
+      "location": "Liurnia of the Lakes",
+      "link": "https://eldenring.wiki.fextralife.com/Ranni+the+Witch",
+      "npc": "Ranni the Witch"
+    },
+    {
+      "description": "Acquire the Cursemark of Death from the body",
+      "completed": 0,
+      "location": "Liurnia of the Lakes",
+      "link": "https://eldenring.wiki.fextralife.com/Ranni+the+Witch",
+      "npc": "Ranni the Witch"
+    },
+    {
+      "description": "At Ainsel River Main collect Miniature Ranni",
+      "completed": 0,
+      "location": "Ainsel River",
+      "link": "https://eldenring.wiki.fextralife.com/Ranni+the+Witch",
+      "npc": "Ranni the Witch"
+    },
+    {
+      "description": "Rest at the Ainsel River Main grace site and speak with Ranni, she'll task you with defeating the Baleful Shadow",
+      "completed": 0,
+      "location": "Ainsel River",
+      "link": "https://eldenring.wiki.fextralife.com/Ranni+the+Witch",
+      "npc": "Ranni the Witch"
+    },
+    {
+      "description": "Travel along the Ainsel River until you reach Nokstella.",
+      "completed": 0,
+      "location": "Ainsel River",
+      "link": "https://eldenring.wiki.fextralife.com/Ranni+the+Witch",
+      "npc": "Ranni the Witch"
+    },
+    {
+      "description": "Defeat Baleful Shadow for Discarded Palace Key",
+      "completed": 0,
+      "location": "Ainsel River",
+      "link": "https://eldenring.wiki.fextralife.com/Ranni+the+Witch",
+      "npc": "Ranni the Witch"
+    },
+    {
+      "description": "Unlock chest in Raya Lucaria Grand Library next to Rennala for Dark Moon Ring",
+      "completed": 0,
+      "location": "Liurnia of the Lakes",
+      "link": "https://eldenring.wiki.fextralife.com/Ranni+the+Witch",
+      "npc": "Ranni the Witch"
+    },
+    {
+      "description": "With the ring, travel back to the Lake of Rot in the Ainsel River area, continuing to the Grand Cloister",
+      "completed": 0,
+      "location": "Lake of Rot",
+      "link": "https://eldenring.wiki.fextralife.com/Ranni+the+Witch",
+      "npc": "Ranni the Witch"
+    },
+    {
+      "description": "Using the coffin in the Grand Cloister, access and defeat Astel",
+      "completed": 0,
+      "location": "Lake of Rot",
+      "link": "https://eldenring.wiki.fextralife.com/Ranni+the+Witch",
+      "npc": "Ranni the Witch"
+    },
+    {
+      "description": "Continue to the Moonlight Altar, past Glintstone Dragon Adula, and enter the Cathedral of Manus Celes",
+      "completed": 0,
+      "location": "Liurnia of the Lakes",
+      "link": "https://eldenring.wiki.fextralife.com/Ranni+the+Witch",
+      "npc": "Ranni the Witch"
+    },
+    {
+      "description": "Use the Dark Moon Ring on the Miniature Ranni to revive Ranni for Dark Moon Greatsword",
+      "completed": 0,
+      "location": "Liurnia of the Lakes",
+      "link": "https://eldenring.wiki.fextralife.com/Ranni+the+Witch",
+      "npc": "Ranni the Witch"
+    },
+    {
+      "description": "Return to Ranni's Chamber, after achieving the Age of Stars ending, for additional dialogue with Miniature Ranni.",
+      "completed": 0,
+      "location": "Liurnia of the Lakes",
+      "link": "https://eldenring.wiki.fextralife.com/Ranni+the+Witch",
+      "npc": "Ranni the Witch"
+    }
+  ],
+  "Iron Fist Alexander": [
+    {
+      "description": "Alexander can be found in Northern Stormhill. Hit with heavy strike to free",
+      "completed": 0,
+      "location": "Limgrave",
+      "link": "https://eldenring.wiki.fextralife.com/Iron+Fist+Alexander",
+      "npc": "Iron Fist Alexander"
+    },
+    {
+      "description": "After that he can be found at Gael Tunnel",
+      "completed": 0,
+      "location": "Caelid",
+      "link": "https://eldenring.wiki.fextralife.com/Iron+Fist+Alexander",
+      "npc": "Iron Fist Alexander"
+    },
+    {
+      "description": "He can be found at Redmane Castle, preparing to enter the festival, alongside Blaidd.",
+      "completed": 0,
+      "location": "Caelid",
+      "link": "https://eldenring.wiki.fextralife.com/Iron+Fist+Alexander",
+      "npc": "Iron Fist Alexander"
+    },
+    {
+      "description": "After killing Starscourge Radahn, Alexander moves to Starscourge Radahn grace.",
+      "completed": 0,
+      "location": "Caelid",
+      "link": "https://eldenring.wiki.fextralife.com/Iron+Fist+Alexander",
+      "npc": "Iron Fist Alexander"
+    },
+    {
+      "description": "South of Carian Study Hall, Alexander is stuck in another hole. Use oil pots, then heavy strike to free him.",
+      "completed": 0,
+      "location": "Liurnia of the Lakes",
+      "link": "https://eldenring.wiki.fextralife.com/Iron+Fist+Alexander",
+      "npc": "Iron Fist Alexander"
+    },
+    {
+      "description": "In Seethewater Terminus, behind the Magma Wyrm, you can find Alexander bathing in the lava.",
+      "completed": 0,
+      "location": "Mt. Gelmir",
+      "link": "https://eldenring.wiki.fextralife.com/Iron+Fist+Alexander",
+      "npc": "Iron Fist Alexander"
+    },
+    {
+      "description": "Alexander can be summoned to battle the Fire Giant at Mountaintops of the Giants.",
+      "completed": 0,
+      "location": "Mountaintops of the Giants",
+      "link": "https://eldenring.wiki.fextralife.com/Iron+Fist+Alexander",
+      "npc": "Iron Fist Alexander"
+    },
+    {
+      "description": "Alexander is on a large flat span of ruins and challenges player. Drops Shard of Alexander, Warrior Jar Shard",
+      "completed": 0,
+      "location": "Crumbling Farum Azula",
+      "link": "https://eldenring.wiki.fextralife.com/Iron+Fist+Alexander",
+      "npc": "Iron Fist Alexander"
+    }
+  ],
+  "Blaidd": [
+    {
+      "description": "Once you enter Mistwood, you will hear a wolf howling.",
+      "completed": 0,
+      "location": "Limgrave",
+      "link": "https://eldenring.wiki.fextralife.com/Blaidd",
+      "npc": "Blaidd"
+    },
+    {
+      "description": "Return to Merchant Kalé and ask him about it. He will teach you the Finger Snap gesture",
+      "completed": 0,
+      "location": "Limgrave",
+      "link": "https://eldenring.wiki.fextralife.com/Blaidd",
+      "npc": "Blaidd"
+    },
+    {
+      "description": "Return to Mistwood and use this gesture after hearing the howl to summon Blaidd.",
+      "completed": 0,
+      "location": "Limgrave",
+      "link": "https://eldenring.wiki.fextralife.com/Blaidd",
+      "npc": "Blaidd"
+    },
+    {
+      "description": "Talk to him when you find him, and he will announce that he is looking for a man named Darriwil",
+      "completed": 0,
+      "location": "Limgrave",
+      "link": "https://eldenring.wiki.fextralife.com/Blaidd",
+      "npc": "Blaidd"
+    },
+    {
+      "description": "Kill Darriwil, Forlorn Hound Evergaol. After, Blaidd will be summonable, Exhaust his dialog.",
+      "completed": 0,
+      "location": "Limgrave",
+      "link": "https://eldenring.wiki.fextralife.com/Blaidd",
+      "npc": "Blaidd"
+    },
+    {
+      "description": "Meet Iji and mention Blaidd sent them to unlock Carian Filigreed Crest to purchase.",
+      "completed": 0,
+      "location": "Liurnia of the Lakes",
+      "link": "https://eldenring.wiki.fextralife.com/Blaidd",
+      "npc": "Blaidd"
+    },
+    {
+      "description": "Renna will request you to meet him at Siofra River. Enter the Siofra River Well and find Blaidd, exhaust his dialog.",
+      "completed": 0,
+      "location": "Siofra River",
+      "link": "https://eldenring.wiki.fextralife.com/Blaidd",
+      "npc": "Blaidd"
+    },
+    {
+      "description": "Return to where you first met him to find a message. **Where is this?**",
+      "completed": 0,
+      "location": "Limgrave",
+      "link": "https://eldenring.wiki.fextralife.com/Blaidd",
+      "npc": "Blaidd"
+    },
+    {
+      "description": "Speak to War Counselor Iji",
+      "completed": 0,
+      "location": "Liurnia of the Lakes",
+      "link": "https://eldenring.wiki.fextralife.com/Blaidd",
+      "npc": "Blaidd"
+    },
+    {
+      "description": "Head to the Forlorn Hound Evergaol to free Blaidd.",
+      "completed": 0,
+      "location": "Limgrave",
+      "link": "https://eldenring.wiki.fextralife.com/Blaidd",
+      "npc": "Blaidd"
+    },
+    {
+      "description": "Go back to War Counselor Iji and talk to him.",
+      "completed": 0,
+      "location": "Liurnia of the Lakes",
+      "link": "https://eldenring.wiki.fextralife.com/Blaidd",
+      "npc": "Blaidd"
+    },
+    {
+      "description": "After completing Ranni's questline Blaidd is at Ranni's Rise, enraged and hostile.",
+      "completed": 0,
+      "location": "Liurnia of the Lakes",
+      "link": "https://eldenring.wiki.fextralife.com/Blaidd",
+      "npc": "Blaidd"
+    },
+    {
+      "description": "Kill him for his armour and greatsword.",
+      "completed": 0,
+      "location": "Liurnia of the Lakes",
+      "link": "https://eldenring.wiki.fextralife.com/Blaidd",
+      "npc": "Blaidd"
+    }
+  ],
+  "Fia": [
+    {
+      "description": "Talk to Fia after defeating Godrick the Grafted. She only talks only while holding you.",
+      "completed": 0,
+      "location": "Roundtable Hold",
+      "link": "https://eldenring.wiki.fextralife.com/Fia",
+      "npc": "Fia"
+    },
+    {
+      "description": "Obtain the Black Knifeprint from the Black Knife Catacombs.",
+      "completed": 0,
+      "location": "Liurnia of the Lakes",
+      "link": "https://eldenring.wiki.fextralife.com/Fia",
+      "npc": "Fia"
+    },
+    {
+      "description": "Return to the Roundtable Hold to give it to Sorcerer Rogier.",
+      "completed": 0,
+      "location": "Roundtable Hold",
+      "link": "https://eldenring.wiki.fextralife.com/Fia",
+      "npc": "Fia"
+    },
+    {
+      "description": "Talk to Fia, reload the area and talk to Rogier again.",
+      "completed": 0,
+      "location": "Roundtable Hold",
+      "link": "https://eldenring.wiki.fextralife.com/Fia",
+      "npc": "Fia"
+    },
+    {
+      "description": "Collect Dectus Medallion (Left)",
+      "completed": 0,
+      "location": "Limgrave",
+      "link": "https://eldenring.wiki.fextralife.com/Dectus+Medallion+(Left)",
+      "npc": "Fia"
+    },
+    {
+      "description": "Collect Dectus Medallion (Right)",
+      "completed": 0,
+      "location": "Caelid",
+      "link": "https://eldenring.wiki.fextralife.com/Dectus+Medallion+(Right)",
+      "npc": "Fia"
+    },
+    {
+      "description": "Reach Altus Plateau and activate the Grand lift of Dectus. Talk to her to get dagger **Where?**",
+      "completed": 0,
+      "location": "Altus Plateau",
+      "link": "https://eldenring.wiki.fextralife.com/Fia",
+      "npc": "Fia"
+    },
+    {
+      "description": "Give the dagger to D in Roundtable Hold.",
+      "completed": 0,
+      "location": "Roundtable Hold",
+      "link": "https://eldenring.wiki.fextralife.com/Fia",
+      "npc": "Fia"
+    },
+    {
+      "description": "Reload Roundtable Hold and go to newly unlocked area near blacksmith. Exhaust her dialogue.",
+      "completed": 0,
+      "location": "Roundtable Hold",
+      "link": "https://eldenring.wiki.fextralife.com/Fia",
+      "npc": "Fia"
+    },
+    {
+      "description": "Head to Deeproot Depths, Prince of Death's Throne Grace and talk to her. Answer No, I want to be held",
+      "completed": 0,
+      "location": "Deeproot Depths",
+      "link": "https://eldenring.wiki.fextralife.com/Fia",
+      "npc": "Fia"
+    },
+    {
+      "description": "Give her the Cursemark of Death which you can get from Ranni's Questline.",
+      "completed": 0,
+      "location": "Deeproot Depths",
+      "link": "https://eldenring.wiki.fextralife.com/Fia",
+      "npc": "Fia"
+    },
+    {
+      "description": "Exhaust her dialog and reload the area. She allows you to enter a dream and fight Lichdragon Fortissax.",
+      "completed": 0,
+      "location": "Deeproot Depths",
+      "link": "https://eldenring.wiki.fextralife.com/Fia",
+      "npc": "Fia"
+    },
+    {
+      "description": "Kill Lichdragon Fortissax and return, loot the Mending Rune of The Death-Prince where she lies.",
+      "completed": 0,
+      "location": "Deeproot Depths",
+      "link": "https://eldenring.wiki.fextralife.com/Fia",
+      "npc": "Fia"
+    }
+  ],
+  "Sorceress Sellen": [
+    {
+      "description": "Find her at Waypoint Ruins in Limgrave. Accept to study under her teaching, exhaust all dialogues.",
+      "completed": 0,
+      "location": "Limgrave",
+      "link": "https://eldenring.wiki.fextralife.com/Sorceress+Sellen",
+      "npc": "Sorceress Sellen"
+    },
+    {
+      "description": "Reload and Return to Sorceress Sellen. She tasks you to find another Sorcerer and gives you a key.",
+      "completed": 0,
+      "location": "Limgrave",
+      "link": "https://eldenring.wiki.fextralife.com/Sorceress+Sellen",
+      "npc": "Sorceress Sellen"
+    },
+    {
+      "description": "Go to Sellia Hideaway and open the Warded door in the second pit. Interact with the Sorcerer inside.",
+      "completed": 0,
+      "location": "Caelid",
+      "link": "https://eldenring.wiki.fextralife.com/Sorceress+Sellen",
+      "npc": "Sorceress Sellen"
+    },
+    {
+      "description": "After defeating Starscourge Radahn return to her, exhaust dialog. **Return to Who??**",
+      "completed": 0,
+      "location": "Limgrave",
+      "link": "https://eldenring.wiki.fextralife.com/Sorceress+Sellen",
+      "npc": "Sorceress Sellen"
+    },
+    {
+      "description": "Go to the Redmane Castle throne room and exhaust dialogue with Witch-Hunter Jerren, if you haven't already.",
+      "completed": 0,
+      "location": "Caelid",
+      "link": "https://eldenring.wiki.fextralife.com/Sorceress+Sellen",
+      "npc": "Sorceress Sellen"
+    },
+    {
+      "description": "Find Primeval Sorcerer Azur and interact with him, near the Hermit Village.",
+      "completed": 0,
+      "location": "Mt. Gelmir",
+      "link": "https://eldenring.wiki.fextralife.com/Sorceress+Sellen",
+      "npc": "Sorceress Sellen"
+    },
+    {
+      "description": "Meet her at the Witchbane Ruins for Primevil Glintstone.",
+      "completed": 0,
+      "location": "Weeping Peninsula",
+      "link": "https://eldenring.wiki.fextralife.com/Sorceress+Sellen",
+      "npc": "Sorceress Sellen"
+    },
+    {
+      "description": "Reload, talk to Witch-Hunter Jerren. Exhaust his dialogue.",
+      "completed": 0,
+      "location": "Weeping Peninsula",
+      "link": "https://eldenring.wiki.fextralife.com/Sorceress+Sellen",
+      "npc": "Sorceress Sellen"
+    },
+    {
+      "description": "Go to Three Sisters and hit the illusory floor in the centre of the ruins, northeast of Ranni's Rise.",
+      "completed": 0,
+      "location": "Liurnia of the Lakes",
+      "link": "https://eldenring.wiki.fextralife.com/Sorceress+Sellen",
+      "npc": "Sorceress Sellen"
+    },
+    {
+      "description": "Inside is another illusory wall, to the left of Selvius's message on the floor.",
+      "completed": 0,
+      "location": "Liurnia of the Lakes",
+      "link": "https://eldenring.wiki.fextralife.com/Sorceress+Sellen",
+      "npc": "Sorceress Sellen"
+    },
+    {
+      "description": "Interact with the Sellen puppet behind the illusory wall and give over the Primevil Glintstone.",
+      "completed": 0,
+      "location": "Liurnia of the Lakes",
+      "link": "https://eldenring.wiki.fextralife.com/Sorceress+Sellen",
+      "npc": "Sorceress Sellen"
+    },
+    {
+      "description": "Travel to Raya Lucaria Grand Library grace. Outside of the Library you'll find two summon signs.",
+      "completed": 0,
+      "location": "Liurnia of the Lakes",
+      "link": "https://eldenring.wiki.fextralife.com/Sorceress+Sellen",
+      "npc": "Sorceress Sellen"
+    },
+    {
+      "description": "white sign: Sellen kill Jerren: Jerren's armour drop, Glintstone Kris, Shard Spiral - Sellen's shop, after transform Witch's Glintstone Crown.",
+      "completed": 0,
+      "location": "Liurnia of the Lakes",
+      "link": "https://eldenring.wiki.fextralife.com/Sorceress+Sellen",
+      "npc": "Sorceress Sellen"
+    },
+    {
+      "description": "red sign: Jerren kill Sellen: Witch's Glintstone Crown. Reload, Talk to Jerren near the summon signs for Ancient Dragon Smithing Stone",
+      "completed": 0,
+      "location": "Liurnia of the Lakes",
+      "link": "https://eldenring.wiki.fextralife.com/Sorceress+Sellen",
+      "npc": "Sorceress Sellen"
+    },
+    {
+      "description": "If you chose to help Sellen, exhaust her dialogue in the Grand Library, reload the area.",
+      "completed": 0,
+      "location": "Liurnia of the Lakes",
+      "link": "https://eldenring.wiki.fextralife.com/Sorceress+Sellen",
+      "npc": "Sorceress Sellen"
+    },
+    {
+      "description": "Sellen will be in the body of an Arcane Sphere of Faces. Her crown is near the Grand Library Site of Grace.",
+      "completed": 0,
+      "location": "Liurnia of the Lakes",
+      "link": "https://eldenring.wiki.fextralife.com/Sorceress+Sellen",
+      "npc": "Sorceress Sellen"
+    }
+  ],
+  "Gowry": [
+    {
+      "description": "Talk to Gowry in Gowry's Shack and he will ask you to find an Unalloyed Gold Needle.",
+      "completed": 0,
+      "location": "Caelid",
+      "link": "https://eldenring.wiki.fextralife.com/Gowry",
+      "npc": "Gowry"
+    },
+    {
+      "description": "Defeat Commander O'Neil located in the Swamp of Aeonia for Unalloyed Gold Needle.",
+      "completed": 0,
+      "location": "Caelid",
+      "link": "https://eldenring.wiki.fextralife.com/Gowry",
+      "npc": "Gowry"
+    },
+    {
+      "description": "Return to Gowry in Gowry's Shack, exhaust his dialogue and reload the area.",
+      "completed": 0,
+      "location": "Caelid",
+      "link": "https://eldenring.wiki.fextralife.com/Gowry",
+      "npc": "Gowry"
+    },
+    {
+      "description": "Take the needle to Millicent at the Church of the Plague, reload. Exhaust her dialogue, reload again.",
+      "completed": 0,
+      "location": "Caelid",
+      "link": "https://eldenring.wiki.fextralife.com/Gowry",
+      "npc": "Gowry"
+    },
+    {
+      "description": "Return to Gowry's Shack and Millicent will be standing there, exhaust her dialogue.",
+      "completed": 0,
+      "location": "Caelid",
+      "link": "https://eldenring.wiki.fextralife.com/Gowry",
+      "npc": "Gowry"
+    },
+    {
+      "description": "Reload, Gowry will be back at his shack.",
+      "completed": 0,
+      "location": "Caelid",
+      "link": "https://eldenring.wiki.fextralife.com/Gowry",
+      "npc": "Gowry"
+    },
+    {
+      "description": "Won't sell insect needles until you confront him about his true form, or kill him after finishing Millicent's quest line for his bell-bearing.",
+      "completed": 0,
+      "location": "Caelid",
+      "link": "https://eldenring.wiki.fextralife.com/Gowry",
+      "npc": "Gowry"
+    }
+  ],
+  "Brother Corhyn": [
+    {
+      "description": "Meet at Roundtable Hold. Exhaust his dialogue.",
+      "completed": 0,
+      "location": "Roundtable Hold",
+      "link": "https://eldenring.wiki.fextralife.com/Brother+Corhyn",
+      "npc": "Brother Corhyn"
+    },
+    {
+      "description": "Either: reach Altus Plateu or defeat Mad Tongue Alberich.",
+      "completed": 0,
+      "location": "Roundtable Hold",
+      "link": "https://eldenring.wiki.fextralife.com/Brother+Corhyn",
+      "npc": "Brother Corhyn"
+    },
+    {
+      "description": "He will tell you he is going on a journey to find the Goldmask.",
+      "completed": 0,
+      "location": "Roundtable Hold",
+      "link": "https://eldenring.wiki.fextralife.com/Brother+Corhyn",
+      "npc": "Brother Corhyn"
+    },
+    {
+      "description": "Travel to Altus Highway Junction site of grace, Reload. He is just north of the SOG, exhaust his dialogue.",
+      "completed": 0,
+      "location": "Altus Plateau",
+      "link": "https://eldenring.wiki.fextralife.com/Brother+Corhyn",
+      "npc": "Brother Corhyn"
+    },
+    {
+      "description": "On the north side of Altus Plateau there is a broken bridge, go here and interact with Goldmask.",
+      "completed": 0,
+      "location": "Altus Plateau",
+      "link": "https://eldenring.wiki.fextralife.com/Brother+Corhyn",
+      "npc": "Brother Corhyn"
+    },
+    {
+      "description": "Return to Brother Corhyn, exhaust his dialogue. Tell him you found the Goldmask.",
+      "completed": 0,
+      "location": "Altus Plateau",
+      "link": "https://eldenring.wiki.fextralife.com/Brother+Corhyn",
+      "npc": "Brother Corhyn"
+    },
+    {
+      "description": "Reload, Corhyn will be next to the Goldmask on the bridge, exhaust dialogue.",
+      "completed": 0,
+      "location": "Altus Plateau",
+      "link": "https://eldenring.wiki.fextralife.com/Brother+Corhyn",
+      "npc": "Brother Corhyn"
+    },
+    {
+      "description": "Defeat Godfrey, First Elden Lord (Golden Shade).",
+      "completed": 0,
+      "location": "Leyndell Royal Capital",
+      "link": "https://eldenring.wiki.fextralife.com/Brother+Corhyn",
+      "npc": "Brother Corhyn"
+    },
+    {
+      "description": "Reload, Corhyn will move to the colosseum at Leyndell, exhaust his dialogue.",
+      "completed": 0,
+      "location": "Leyndell Royal Capital",
+      "link": "https://eldenring.wiki.fextralife.com/Brother+Corhyn",
+      "npc": "Brother Corhyn"
+    },
+    {
+      "description": "Get the incantation Law of Regression (requires 33 INT, boostable).",
+      "completed": 0,
+      "location": "Leyndell Royal Capital",
+      "link": "https://eldenring.wiki.fextralife.com/Golden+Order+Principia",
+      "npc": "Brother Corhyn"
+    },
+    {
+      "description": "Head west from Erdtree sanctuary grace until you see a white message saying Regression facing a statue.",
+      "completed": 0,
+      "location": "Leyndell Royal Capital",
+      "link": "https://eldenring.wiki.fextralife.com/Brother+Corhyn",
+      "npc": "Brother Corhyn"
+    },
+    {
+      "description": "Cast Law of Regression on the message while facing the statue. New message appears.",
+      "completed": 0,
+      "location": "Leyndell Royal Capital",
+      "link": "https://eldenring.wiki.fextralife.com/Brother+Corhyn",
+      "npc": "Brother Corhyn"
+    },
+    {
+      "description": "Read it and return to Brother Coryhn.",
+      "completed": 0,
+      "location": "Leyndell Royal Capital",
+      "link": "https://eldenring.wiki.fextralife.com/Brother+Corhyn",
+      "npc": "Brother Corhyn"
+    },
+    {
+      "description": "Brother Coryhn and Goldmask will move to the bridge south of Stargazers Ruins. Exhaust his dialogue.",
+      "completed": 0,
+      "location": "Mountaintops of the Giants",
+      "link": "https://eldenring.wiki.fextralife.com/Brother+Corhyn",
+      "npc": "Brother Corhyn"
+    },
+    {
+      "description": "Kill Fire Giant and Beast Clergyman in Crumbling Farum Azula, Coryhn will move to Capital of Ash grace.",
+      "completed": 0,
+      "location": "Leyndell Ashen Capital",
+      "link": "https://eldenring.wiki.fextralife.com/Brother+Corhyn",
+      "npc": "Brother Corhyn"
+    },
+    {
+      "description": "Travel south, below the elevator, there's a new path that leads to a dead Goldmask.",
+      "completed": 0,
+      "location": "Leyndell Ashen Capital",
+      "link": "https://eldenring.wiki.fextralife.com/Brother+Corhyn",
+      "npc": "Brother Corhyn"
+    },
+    {
+      "description": "Collect Mending Rune of Perfect Order. Reload, Loot a second time for attire.",
+      "completed": 0,
+      "location": "Leyndell Ashen Capital",
+      "link": "https://eldenring.wiki.fextralife.com/Brother+Corhyn",
+      "npc": "Brother Corhyn"
+    },
+    {
+      "description": "Brother Corhyn may have additional dialogue after the Perfect Order ending.",
+      "completed": 0,
+      "location": "Leyndell Ashen Capital",
+      "link": "https://eldenring.wiki.fextralife.com/Brother+Corhyn",
+      "npc": "Brother Corhyn"
+    }
+  ],
+  "Nepheli Loux": [
+    {
+      "description": "Find her in the courtyard near Godricks grace. Exhaust her dialogue she will offer to help fight Godrick.",
+      "completed": 0,
+      "location": "Limgrave",
+      "link": "https://eldenring.wiki.fextralife.com/Nepheli+Loux",
+      "npc": "Nepheli Loux"
+    },
+    {
+      "description": "Kill Godrick, she will move to the library in Roundtable Hold. Exhaust her dialogue for an Arsenal Charm.",
+      "completed": 0,
+      "location": "Roundtable Hold",
+      "link": "https://eldenring.wiki.fextralife.com/Nepheli+Loux",
+      "npc": "Nepheli Loux"
+    },
+    {
+      "description": "Collect The Stormhawk King, at the Chapel of Anticipation upon return. Accessed by The Four Belfries.",
+      "completed": 0,
+      "location": "Liurnia of the Lakes",
+      "link": "https://eldenring.wiki.fextralife.com/Nepheli+Loux",
+      "npc": "Nepheli Loux"
+    },
+    {
+      "description": "Give her the Stormhawk King remains.",
+      "completed": 0,
+      "location": "Roundtable Hold",
+      "link": "https://eldenring.wiki.fextralife.com/Nepheli+Loux",
+      "npc": "Nepheli Loux"
+    },
+    {
+      "description": "Follow Kenneth Haight's questline. He can be found at the top of Fort Haight. Exhaust dialogue.",
+      "completed": 0,
+      "location": "Limgrave",
+      "link": "https://eldenring.wiki.fextralife.com/Nepheli+Loux",
+      "npc": "Nepheli Loux"
+    },
+    {
+      "description": "Travel to Godrick's grace and rest at it. Nepheli and Kenneth can be found in the throne room. Exhaust dialogue.",
+      "completed": 0,
+      "location": "Limgrave",
+      "link": "https://eldenring.wiki.fextralife.com/Nepheli+Loux",
+      "npc": "Nepheli Loux"
+    }
+  ],
+  "Seluvis": [
+    {
+      "description": "Speak to Preceptor Seluvis and receive his quest. Must be done after talking to Nepheli Loux.",
+      "completed": 0,
+      "location": "Liurnia of the Lakes",
+      "link": "https://eldenring.wiki.fextralife.com/Preceptor+Seluvis",
+      "npc": "Seluvis"
+    },
+    {
+      "description": "Find Nepheli at Village of the Albinaurics, exhaust her dialogue and kill Omenkiller nearby.",
+      "completed": 0,
+      "location": "Liurnia of the Lakes",
+      "link": "https://eldenring.wiki.fextralife.com/Preceptor+Seluvis",
+      "npc": "Seluvis"
+    },
+    {
+      "description": "Go to Roundtable Hold and find Nepheli downstairs and exhaust her dialogue.",
+      "completed": 0,
+      "location": "Roundtable Hold",
+      "link": "https://eldenring.wiki.fextralife.com/Preceptor+Seluvis",
+      "npc": "Seluvis"
+    },
+    {
+      "description": "Go to Gideon Ofnir and ask him about Nepheli, and tell him about the potion.",
+      "completed": 0,
+      "location": "Roundtable Hold",
+      "link": "https://eldenring.wiki.fextralife.com/Preceptor+Seluvis",
+      "npc": "Seluvis"
+    },
+    {
+      "description": "Give potion to Ofnir, Nepheli or Dung Eater to and complete the quest at Seluvis for his reward.",
+      "completed": 0,
+      "location": "Roundtable Hold",
+      "link": "https://eldenring.wiki.fextralife.com/Preceptor+Seluvis",
+      "npc": "Seluvis"
+    },
+    {
+      "description": "NOTE: Giving the potion to Nepheli or Dung Eater will end their respective questlines.",
+      "completed": 0,
+      "location": "Roundtable Hold",
+      "link": "https://eldenring.wiki.fextralife.com/Preceptor+Seluvis",
+      "npc": "Seluvis"
+    }
+  ],
+  "Bloody Finger Hunter Yura": [
+    {
+      "description": "Meet Bloody Finger Hunter Yura, near the lake of Limgrave, under an overpass.",
+      "completed": 0,
+      "location": "Limgrave",
+      "link": "https://eldenring.wiki.fextralife.com/Bloody+Finger+Hunter+Yura",
+      "npc": "Bloody Finger Hunter Yura"
+    },
+    {
+      "description": "Once you defeat the Flying Dragon Agheel, talk to him again.",
+      "completed": 0,
+      "location": "Limgrave",
+      "link": "https://eldenring.wiki.fextralife.com/Bloody+Finger+Hunter+Yura",
+      "npc": "Bloody Finger Hunter Yura"
+    },
+    {
+      "description": "Approach Murkwater Cave to get invaded, Defeat the invader with Yura's help, Yura must stay alive.",
+      "completed": 0,
+      "location": "Limgrave",
+      "link": "https://eldenring.wiki.fextralife.com/Bloody+Finger+Hunter+Yura",
+      "npc": "Bloody Finger Hunter Yura"
+    },
+    {
+      "description": "Yura can be found further north of Murkwater Cave.",
+      "completed": 0,
+      "location": "Limgrave",
+      "link": "https://eldenring.wiki.fextralife.com/Bloody+Finger+Hunter+Yura",
+      "npc": "Bloody Finger Hunter Yura"
+    },
+    {
+      "description": "Yura's Red Summon Sign on a bridge, north of the Main gate Grace in Raya Lucaria. Interact with the Red Sign.",
+      "completed": 0,
+      "location": "Liurnia of the Lakes",
+      "link": "https://eldenring.wiki.fextralife.com/Bloody+Finger+Hunter+Yura",
+      "npc": "Bloody Finger Hunter Yura"
+    },
+    {
+      "description": "After the fight he will be standing near the Summon Sign, exhaust his dialogue.",
+      "completed": 0,
+      "location": "Liurnia of the Lakes",
+      "link": "https://eldenring.wiki.fextralife.com/Bloody+Finger+Hunter+Yura",
+      "npc": "Bloody Finger Hunter Yura"
+    },
+    {
+      "description": "Find him at Second Church of Marika. Talk to him for the Nagakiba and a battle with Eleonora.",
+      "completed": 0,
+      "location": "Altus Plateau",
+      "link": "https://eldenring.wiki.fextralife.com/Bloody+Finger+Hunter+Yura",
+      "npc": "Bloody Finger Hunter Yura"
+    },
+    {
+      "description": "Winning will reward Purifying Crystal Tear, Eleonora's Poleblade and one other undefined item.",
+      "completed": 0,
+      "location": "Altus Plateau",
+      "link": "https://eldenring.wiki.fextralife.com/Bloody+Finger+Hunter+Yura",
+      "npc": "Bloody Finger Hunter Yura"
+    },
+    {
+      "description": "After this you can fight him at Zamor Ruins Grace to get his armour set.",
+      "completed": 0,
+      "location": "Mountaintops of the Giants",
+      "link": "https://eldenring.wiki.fextralife.com/Bloody+Finger+Hunter+Yura",
+      "npc": "Bloody Finger Hunter Yura"
+    }
+  ],
+  "Knight Bernahl": [
+    {
+      "description": "Knight Bernahl is at Warmaster's Shack in Stormhill. Pledge to Volcano Manor, Bernahl will move there.",
+      "completed": 0,
+      "location": "Limgrave",
+      "link": "https://eldenring.wiki.fextralife.com/Knight+Bernahl",
+      "npc": "Knight Bernahl"
+    },
+    {
+      "description": "Join the Volcano Manor and complete two assassination quests for them.",
+      "completed": 0,
+      "location": "Mt. Gelmir",
+      "link": "https://eldenring.wiki.fextralife.com/Knight+Bernahl",
+      "npc": "Knight Bernahl"
+    },
+    {
+      "description": "Speak to Bernahl to receive the Letter to Bernahl.",
+      "completed": 0,
+      "location": "Mt. Gelmir",
+      "link": "https://eldenring.wiki.fextralife.com/Knight+Bernahl",
+      "npc": "Knight Bernahl"
+    },
+    {
+      "description": "Go to Leyndell and find the red invasion sign. Fight alongside Bernahl for Raging Wolf Set.",
+      "completed": 0,
+      "location": "Leyndell Royal Capital",
+      "link": "https://eldenring.wiki.fextralife.com/Knight+Bernahl",
+      "npc": "Knight Bernahl"
+    },
+    {
+      "description": "Report back to him at Volcano Manor for Gelmir's Fury Sorcery. (Must do above before Rykard).",
+      "completed": 0,
+      "location": "Mt. Gelmir",
+      "link": "https://eldenring.wiki.fextralife.com/Knight+Bernahl",
+      "npc": "Knight Bernahl"
+    },
+    {
+      "description": "Defeat Rykard then exhaust Bernahl's dialogue.",
+      "completed": 0,
+      "location": "Mt. Gelmir",
+      "link": "https://eldenring.wiki.fextralife.com/Knight+Bernahl",
+      "npc": "Knight Bernahl"
+    },
+    {
+      "description": "Go to Crumbling Farum Azula to find him as invader.",
+      "completed": 0,
+      "location": "Crumbling Farum Azula",
+      "link": "https://eldenring.wiki.fextralife.com/Knight+Bernahl",
+      "npc": "Knight Bernahl"
+    }
+  ],
+  "Patches": [
+    {
+      "description": "Find and fight Patches at Murkwater Cave. When he surrenders, forgive him. Exhaust Dialogue.",
+      "completed": 0,
+      "location": "Limgrave",
+      "link": "https://eldenring.wiki.fextralife.com/Patches",
+      "npc": "Patches"
+    },
+    {
+      "description": "(OPTIONAL): Agro Patches but don't kill, let him take your health down, he will give Extreme Repentance. Use this to return him to neutral.",
+      "completed": 0,
+      "location": "Limgrave",
+      "link": "https://eldenring.wiki.fextralife.com/Patches",
+      "npc": "Patches"
+    },
+    {
+      "description": "Exhaust Dialogue. Reset, then Patches' shop will be open.",
+      "completed": 0,
+      "location": "Limgrave",
+      "link": "https://eldenring.wiki.fextralife.com/Patches",
+      "npc": "Patches"
+    },
+    {
+      "description": "After finishing all dialogue, opening some other chest nearby and transport you to Mistwood.",
+      "completed": 0,
+      "location": "Limgrave",
+      "link": "https://eldenring.wiki.fextralife.com/Patches",
+      "npc": "Patches"
+    },
+    {
+      "description": "Travel back to Murkwater Cave and talk to Patches.",
+      "completed": 0,
+      "location": "Limgrave",
+      "link": "https://eldenring.wiki.fextralife.com/Patches",
+      "npc": "Patches"
+    },
+    {
+      "description": "You can find Patches a second time on the Scenic Isle, near the Laskyar Ruins Site of grace. (Talk to Rya next)",
+      "completed": 0,
+      "location": "Liurnia of the Lakes",
+      "link": "https://eldenring.wiki.fextralife.com/Patches",
+      "npc": "Patches"
+    },
+    {
+      "description": "Join the Volcano Manor and Talking to Tanith. Take on and complete the first assassination mission.",
+      "completed": 0,
+      "location": "Mt. Gelmir",
+      "link": "https://eldenring.wiki.fextralife.com/Patches",
+      "npc": "Patches"
+    },
+    {
+      "description": "Return to the Manor and speak to everyone there to receive individual requests. Use Drawing Room Key to access more NPCs",
+      "completed": 0,
+      "location": "Mt. Gelmir",
+      "link": "https://eldenring.wiki.fextralife.com/Patches",
+      "npc": "Patches"
+    },
+    {
+      "description": "Reload and speak to Patches to receive the Letter to Patches.",
+      "completed": 0,
+      "location": "Mt. Gelmir",
+      "link": "https://eldenring.wiki.fextralife.com/Patches",
+      "npc": "Patches"
+    },
+    {
+      "description": "Go to Ruin-Strewn Precipice and find the red invasion sign. Defeat the target to receive the Bull-Goat Armor Set.",
+      "completed": 0,
+      "location": "Liurnia of the Lakes",
+      "link": "https://eldenring.wiki.fextralife.com/Patches",
+      "npc": "Patches"
+    },
+    {
+      "description": "Reload the area and he'll reward you with the Magma Whip Candlestick.",
+      "completed": 0,
+      "location": "Mt. Gelmir",
+      "link": "https://eldenring.wiki.fextralife.com/Patches",
+      "npc": "Patches"
+    },
+    {
+      "description": "Defeat Rykard then exhaust Patches' dialogue. WARNING Complete all other related quests",
+      "completed": 0,
+      "location": "Mt. Gelmir",
+      "link": "https://eldenring.wiki.fextralife.com/Patches",
+      "npc": "Patches"
+    },
+    {
+      "description": "Take on another assassination mission, Rileigh The Idle.",
+      "completed": 0,
+      "location": "Altus Plateau",
+      "link": "https://eldenring.wiki.fextralife.com/Patches",
+      "npc": "Patches"
+    },
+    {
+      "description": "Travel back to Tanith, Exhaust Dialogue.",
+      "completed": 0,
+      "location": "Mt. Gelmir",
+      "link": "https://eldenring.wiki.fextralife.com/Patches",
+      "npc": "Patches"
+    },
+    {
+      "description": "Finish Rya's quest before proceeding",
+      "completed": 0,
+      "location": "Mt. Gelmir",
+      "link": "https://eldenring.wiki.fextralife.com/Patches",
+      "npc": "Patches"
+    },
+    {
+      "description": "Take on Bernahl's assassination mission.",
+      "completed": 0,
+      "location": "Mt. Gelmir",
+      "link": "https://eldenring.wiki.fextralife.com/Patches",
+      "npc": "Patches"
+    },
+    {
+      "description": "Take on another assassination mission. WARNING This can interfere with other questlines",
+      "completed": 0,
+      "location": "Mountaintops of the Giants",
+      "link": "https://eldenring.wiki.fextralife.com/Patches",
+      "npc": "Patches"
+    },
+    {
+      "description": "Travel back to Tanith, Exhaust Dialogue. She'll offer to send you to Rykard's area.",
+      "completed": 0,
+      "location": "Mt. Gelmir",
+      "link": "https://eldenring.wiki.fextralife.com/Patches",
+      "npc": "Patches"
+    },
+    {
+      "description": "Defeat Rykard then exhaust Tanith's, Bernahl's and Patches' dialogue. Reset",
+      "completed": 0,
+      "location": "Mt. Gelmir",
+      "link": "https://eldenring.wiki.fextralife.com/Patches",
+      "npc": "Patches"
+    },
+    {
+      "description": "Travel to the Shaded Castle. Defeat Briar Boss and Exhaust Patches' Dialogue. He will give the Dancer's Castanets.",
+      "completed": 0,
+      "location": "Altus Plateau",
+      "link": "https://eldenring.wiki.fextralife.com/Patches",
+      "npc": "Patches"
+    },
+    {
+      "description": "Travel back to Murkwater Cave, go through fog wall and loot chest. Patches will attack again, he will surrender again.",
+      "completed": 0,
+      "location": "Limgrave",
+      "link": "https://eldenring.wiki.fextralife.com/Patches",
+      "npc": "Patches"
+    }
+  ],
+  "Rya": [
+    {
+      "description": "Meet her at Liurnia of the Lakes. She will talk about having a Necklace stolen",
+      "completed": 0,
+      "location": "Liurnia of the Lakes",
+      "link": "https://eldenring.wiki.fextralife.com/Rya",
+      "npc": "Rya"
+    },
+    {
+      "description": "Go to Boilprawn Shack. Speak to BB Boggart, who sells the necklace 1,000 Runes. Killing him is not recommended.",
+      "completed": 0,
+      "location": "Liurnia of the Lakes",
+      "link": "https://eldenring.wiki.fextralife.com/Rya",
+      "npc": "Rya"
+    },
+    {
+      "description": "Return the necklace to Rya to obtain a Volcanic Manor invitation.",
+      "completed": 0,
+      "location": "Liurnia of the Lakes",
+      "link": "https://eldenring.wiki.fextralife.com/Rya",
+      "npc": "Rya"
+    },
+    {
+      "description": "After reaching Altus Plateau, you can find Rya at Lux Ruins (if you haven't used Dectus Medallion):",
+      "completed": 0,
+      "location": "Altus Plateau",
+      "link": "https://eldenring.wiki.fextralife.com/Rya",
+      "npc": "Rya"
+    },
+    {
+      "description": "Or at the top of the Grand Lift of Dectus. Talk to her and she will teleport you inside Volcano Manor.",
+      "completed": 0,
+      "location": "Altus Plateau",
+      "link": "https://eldenring.wiki.fextralife.com/Rya",
+      "npc": "Rya"
+    },
+    {
+      "description": "NOTE: If she is not in either location, try teleporting to the Grand Lift and riding it to the top again to trigger her.",
+      "completed": 0,
+      "location": "Altus Plateau",
+      "link": "https://eldenring.wiki.fextralife.com/Rya",
+      "npc": "Rya"
+    },
+    {
+      "description": "Complete first part of Tanith's quest, Rya will move to a new room.",
+      "completed": 0,
+      "location": "Mt. Gelmir",
+      "link": "https://eldenring.wiki.fextralife.com/Rya",
+      "npc": "Rya"
+    },
+    {
+      "description": "Speak to her during her snake form to progress the questline.",
+      "completed": 0,
+      "location": "Mt. Gelmir",
+      "link": "https://eldenring.wiki.fextralife.com/Rya",
+      "npc": "Rya"
+    },
+    {
+      "description": "NOTE: Proceeding Volcano Manor quests up to Rykard makes this quest impossible to continue.",
+      "completed": 0,
+      "location": "Mt. Gelmir",
+      "link": "https://eldenring.wiki.fextralife.com/Rya",
+      "npc": "Rya"
+    },
+    {
+      "description": "Return to Rya, exhaust dialogue. Enter the illusory wall in the room right of hers.",
+      "completed": 0,
+      "location": "Mt. Gelmir",
+      "link": "https://eldenring.wiki.fextralife.com/Rya",
+      "npc": "Rya"
+    },
+    {
+      "description": "Reach the grace in Prison Town Church. Return to Zoraya and tell her what you have seen to continue.",
+      "completed": 0,
+      "location": "Mt. Gelmir",
+      "link": "https://eldenring.wiki.fextralife.com/Rya",
+      "npc": "Rya"
+    },
+    {
+      "description": "(OPTIONAL) Speak to Lady Tanith and choose the Zoraya's troubles option.",
+      "completed": 0,
+      "location": "Mt. Gelmir",
+      "link": "https://eldenring.wiki.fextralife.com/Rya",
+      "npc": "Rya"
+    },
+    {
+      "description": "Defeat Godskin Noble in Temple of Eiglay to get the Serpent's Amnion.",
+      "completed": 0,
+      "location": "Mt. Gelmir",
+      "link": "https://eldenring.wiki.fextralife.com/Rya",
+      "npc": "Rya"
+    },
+    {
+      "description": "Give the Serpent's Amnion to Zoraya and she will disappear from the manor.",
+      "completed": 0,
+      "location": "Mt. Gelmir",
+      "link": "https://eldenring.wiki.fextralife.com/Rya",
+      "npc": "Rya"
+    },
+    {
+      "description": "(OPTIONAL) Speaking to Lady Tanith will have the new option Zoraya's absence.",
+      "completed": 0,
+      "location": "Mt. Gelmir",
+      "link": "https://eldenring.wiki.fextralife.com/Rya",
+      "npc": "Rya"
+    },
+    {
+      "description": "She will give a Tonic of Forgetfulness to give to the upset Zoraya.",
+      "completed": 0,
+      "location": "Mt. Gelmir",
+      "link": "https://eldenring.wiki.fextralife.com/Rya",
+      "npc": "Rya"
+    },
+    {
+      "description": "Zoraya has moved to the Legacy Dungeon's interior.",
+      "completed": 0,
+      "location": "Mt. Gelmir",
+      "link": "https://eldenring.wiki.fextralife.com/Rya",
+      "npc": "Rya"
+    },
+       {
+      "description": "If you have fully unlocked the area, you can reach it by taking the wooden elevator next to the Temple of Eiglay, getting off at a hidden doorway just below the lift's highest point, and heading straight through the rooms beyond until you jump across a lava floe.",
+      "completed": 0,
+      "location": "Mt. Gelmir",
+      "link": "https://eldenring.wiki.fextralife.com/Rya",
+      "npc": "Rya"
+    },
+    {
+      "description": "- if the elevator is not yet active, you can reach the lava floe (or unlock the elevator) by jumping off the balcony of the top floor of Temple of Eiglay.",
+      "completed": 0,
+      "location": "Mt. Gelmir",
+      "link": "https://eldenring.wiki.fextralife.com/Rya",
+      "npc": "Rya"
+    },
+    {
+      "description": "- you can also reach this room by taking the wooden elevator to the top, going straight ahead toward the man-serpent with the lava sword, and jumping out the windows on the left.",
+      "completed": 0,
+      "location": "Mt. Gelmir",
+      "link": "https://eldenring.wiki.fextralife.com/Rya",
+      "npc": "Rya"
+    },
+    {
+      "description": "She asks you to kill her and end her pain.",
+      "completed": 0,
+      "location": "Mt. Gelmir",
+      "link": "https://eldenring.wiki.fextralife.com/Rya",
+      "npc": "Rya"
+    },
+    {
+      "description": "01 If you kill her, she will transform back into a snake and drop Daedicar's Woe.",
+      "completed": 0,
+      "location": "Mt. Gelmir",
+      "link": "https://eldenring.wiki.fextralife.com/Rya",
+      "npc": "Rya"
+    },
+    {
+      "description": "02 If you leave her alive and return after killing Rykard, she realizes that you are not willing to kill her.",
+      "completed": 0,
+      "location": "Mt. Gelmir",
+      "link": "https://eldenring.wiki.fextralife.com/Rya",
+      "npc": "Rya"
+    },
+    {
+      "description": "02 When you reset the area, she is gone and has left Daedicar's Woe and Zoraya's letter in her place.",
+      "completed": 0,
+      "location": "Mt. Gelmir",
+      "link": "https://eldenring.wiki.fextralife.com/Rya",
+      "npc": "Rya"
+    },
+    {
+      "description": "03 If you give her the Tonic of Forgetfulness, she simply goes to sleep.",
+      "completed": 0,
+      "location": "Mt. Gelmir",
+      "link": "https://eldenring.wiki.fextralife.com/Rya",
+      "npc": "Rya"
+    }
+  ],
+  "Dung Eater": [
+    {
+      "description": "You will find Dung Eater in the Roundtable Hold, after reaching Leyndell, Royal Capital.",
+      "completed": 0,
+      "location": "Roundtable Hold",
+      "link": "https://eldenring.wiki.fextralife.com/Dung+Eater",
+      "npc": "Dung Eater"
+    },
+    {
+      "description": "Collect 01 Seedbed Curse - East Capital Rampart",
+      "completed": 0,
+      "location": "Leyndell Royal Capital",
+      "link": "https://eldenring.wiki.fextralife.com/Seedbed+Curse",
+      "npc": "Dung Eater"
+    },
+    {
+      "description": "Give him one Seedbed Curse. He asks you to kill his body in sewers of Leyndell. He gives you the Sewer-Gaol Key.",
+      "completed": 0,
+      "location": "Roundtable Hold",
+      "link": "https://eldenring.wiki.fextralife.com/Dung+Eater",
+      "npc": "Dung Eater"
+    },
+    {
+      "description": "Once you find him trapped in cell you can choose to kill him or free him.",
+      "completed": 0,
+      "location": "Leyndell Royal Capital",
+      "link": "https://eldenring.wiki.fextralife.com/Dung+Eater",
+      "npc": "Dung Eater"
+    },
+    {
+      "description": "If you free him a new message will appear in Roundtable Hold suggesting you meet him at the Outer Moat.",
+      "completed": 0,
+      "location": "Roundtable Hold",
+      "link": "https://eldenring.wiki.fextralife.com/Dung+Eater",
+      "npc": "Dung Eater"
+    },
+    {
+      "description": "NOTE: If you are progressing Blackguard Big Boggart's quest and have not exhausted his dialogue in the capitol:",
+      "completed": 0,
+      "location": "Leyndell Royal Capital",
+      "link": "https://eldenring.wiki.fextralife.com/Dung+Eater",
+      "npc": "Dung Eater"
+    },
+    {
+      "description": "- You must go to the outer moat (Here on the Elden Ring Map) and exhaust his dialogue.",
+      "completed": 0,
+      "location": "Leyndell Royal Capital",
+      "link": "https://eldenring.wiki.fextralife.com/Dung+Eater",
+      "npc": "Dung Eater"
+    },
+    {
+      "description": "- After returning to the area the Dung Eater will have defiled Blackguard's body.",
+      "completed": 0,
+      "location": "Leyndell Royal Capital",
+      "link": "https://eldenring.wiki.fextralife.com/Dung+Eater",
+      "npc": "Dung Eater"
+    },
+    {
+      "description": "- Speak with him to exhaust his dialogue once again until he dies and you receive his items.",
+      "completed": 0,
+      "location": "Leyndell Royal Capital",
+      "link": "https://eldenring.wiki.fextralife.com/Dung+Eater",
+      "npc": "Dung Eater"
+    },
+    {
+      "description": "- Only at this point will the Dung Eater Invade the area.",
+      "completed": 0,
+      "location": "Leyndell Royal Capital",
+      "link": "https://eldenring.wiki.fextralife.com/Dung+Eater",
+      "npc": "Dung Eater"
+    },
+    {
+      "description": "Meet him in proposed location.",
+      "completed": 0,
+      "location": "Leyndell Royal Capital",
+      "link": "https://eldenring.wiki.fextralife.com/Dung+Eater",
+      "npc": "Dung Eater"
+    },
+    {
+      "description": "Dung Eater will invade you. Defeating him rewards Furcalling Finger Remedy and Sword of Milos.",
+      "completed": 0,
+      "location": "Leyndell Royal Capital",
+      "link": "https://eldenring.wiki.fextralife.com/Dung+Eater",
+      "npc": "Dung Eater"
+    },
+    {
+      "description": "Dung Eater wants 4 more Seedbed Curses (5 total).",
+      "completed": 0,
+      "location": "Roundtable Hold",
+      "link": "https://eldenring.wiki.fextralife.com/Dung+Eater",
+      "npc": "Dung Eater"
+    },
+    {
+      "description": "Collect 02 Seedbed Curse - Fortified Manor",
+      "completed": 0,
+      "location": "Leyndell Royal Capital",
+      "link": "https://eldenring.wiki.fextralife.com/Seedbed+Curse",
+      "npc": "Dung Eater"
+    },
+    {
+      "description": "Collect 03 Seedbed Curse - Capital Ramparts, Blackguard at the end of his questline",
+      "completed": 0,
+      "location": "Leyndell Royal Capital",
+      "link": "https://eldenring.wiki.fextralife.com/Seedbed+Curse",
+      "npc": "Dung Eater"
+    },
+    {
+      "description": "Collect 04 Seedbed Curse - Volcano Manor, From Temple of Eiglay",
+      "completed": 0,
+      "location": "Mt. Gelmir",
+      "link": "https://eldenring.wiki.fextralife.com/Seedbed+Curse",
+      "npc": "Dung Eater"
+    },
+    {
+      "description": "Collect 05 Seedbed Curse - Elphael, Brace of the Haligtree, From the Prayer Room",
+      "completed": 0,
+      "location": "Miquella's Haligtree & Elphael, Brace of the Haligtree",
+      "link": "https://eldenring.wiki.fextralife.com/Seedbed+Curse",
+      "npc": "Dung Eater"
+    },
+    {
+      "description": "Collect 06 Seedbed Curse - Elphael, Brace of the Haligtree, From the Prayer Room",
+      "completed": 0,
+      "location": "Miquella's Haligtree & Elphael, Brace of the Haligtree",
+      "link": "https://eldenring.wiki.fextralife.com/Seedbed+Curse",
+      "npc": "Dung Eater"
+    },
+    {
+      "description": "In Roundtable Hold, give Seedbed Curses.",
+      "completed": 0,
+      "location": "Roundtable Hold",
+      "link": "https://eldenring.wiki.fextralife.com/Dung+Eater",
+      "npc": "Dung Eater"
+    },
+    {
+      "description": "You will receive the Mending Rune of the Fell Curse, for alternate ending the game, and armour set.",
+      "completed": 0,
+      "location": "Roundtable Hold",
+      "link": "https://eldenring.wiki.fextralife.com/Dung+Eater",
+      "npc": "Dung Eater"
+    }
+  ],
+  "Millicent": [
+    {
+      "description": "Speak with Gowry in his shack and he tasks you to get Unalloyed Gold Needle dropped by Commander O'Neil.",
+      "completed": 0,
+      "location": "Caelid",
+      "link": "https://eldenring.wiki.fextralife.com/Millicent",
+      "npc": "Millicent"
+    },
+    {
+      "description": "Defeat Commander O'Neil",
+      "completed": 0,
+      "location": "Caelid",
+      "link": "https://eldenring.wiki.fextralife.com/Millicent",
+      "npc": "Millicent"
+    },
+    {
+      "description": "Return to Gowry with the needle. He will give you Sellia's Secret.",
+      "completed": 0,
+      "location": "Caelid",
+      "link": "https://eldenring.wiki.fextralife.com/Millicent",
+      "npc": "Millicent"
+    },
+    {
+      "description": "Reset and return, he'll give you the repaired needle.",
+      "completed": 0,
+      "location": "Caelid",
+      "link": "https://eldenring.wiki.fextralife.com/Millicent",
+      "npc": "Millicent"
+    },
+    {
+      "description": "Light the beacons in Sellia according to Sellia's Secret. Each beacon also opens a barrier with loot.",
+      "completed": 0,
+      "location": "Caelid",
+      "link": "https://eldenring.wiki.fextralife.com/Millicent",
+      "npc": "Millicent"
+    },
+    {
+      "description": "Bring the needle to Millicent at the Church of the Plague",
+      "completed": 0,
+      "location": "Caelid",
+      "link": "https://eldenring.wiki.fextralife.com/Millicent",
+      "npc": "Millicent"
+    },
+    {
+      "description": "After Millicent uses the needle, reset. Then exhaust her dialog. She will gift you the Prosthesis-Wearer Heirloom.",
+      "completed": 0,
+      "location": "Caelid",
+      "link": "https://eldenring.wiki.fextralife.com/Millicent",
+      "npc": "Millicent"
+    },
+    {
+      "description": "Rest again to move her to Gowry's shack. Return to Gowry's shack. Millicent is there. Exhaust her dialog.",
+      "completed": 0,
+      "location": "Caelid",
+      "link": "https://eldenring.wiki.fextralife.com/Millicent",
+      "npc": "Millicent"
+    },
+    {
+      "description": "**Quit** and reload at the shack, this will move Millicent and have Gowry return.",
+      "completed": 0,
+      "location": "Caelid",
+      "link": "https://eldenring.wiki.fextralife.com/Millicent",
+      "npc": "Millicent"
+    },
+    {
+      "description": "Collect Valkyrie's Prosthesis. It can be found in the Shaded Castle.",
+      "completed": 0,
+      "location": "Altus Plateau",
+      "link": "https://eldenring.wiki.fextralife.com/Millicent",
+      "npc": "Millicent"
+    },
+    {
+      "description": "Millicent moves to north of the Erdtree-Gazing Hill Grace. Give her the Valkyrie's Prosthesis.",
+      "completed": 0,
+      "location": "Altus Plateau",
+      "link": "https://eldenring.wiki.fextralife.com/Millicent",
+      "npc": "Millicent"
+    },
+    {
+      "description": "Defeat Godskin Apostle. Reset, she will be near the Windmill Heights Grace. Exhaust her dialogue.",
+      "completed": 0,
+      "location": "Altus Plateau",
+      "link": "https://eldenring.wiki.fextralife.com/Millicent",
+      "npc": "Millicent"
+    },
+    {
+      "description": "Millicent will move to Ancient Snow Valley Ruins Grace. **",
+      "completed": 0,
+      "location": "Mountaintops of the Giants",
+      "link": "https://eldenring.wiki.fextralife.com/Millicent",
+      "npc": "Millicent"
+    },
+    {
+      "description": "Defeat the Ulcerated Tree Spirit mini-boss just before the Drainage Channel Grace. Reset",
+      "completed": 0,
+      "location": "Mountaintops of the Giants",
+      "link": "https://eldenring.wiki.fextralife.com/Millicent",
+      "npc": "Millicent"
+    },
+    {
+      "description": "Millicent will move to the Prayer Room Grace.",
+      "completed": 0,
+      "location": "Mountaintops of the Giants",
+      "link": "https://eldenring.wiki.fextralife.com/Millicent",
+      "npc": "Millicent"
+    },
+    {
+      "description": "NOTE: There will be two summon signs near where the mini boss used to be:",
+      "completed": 0,
+      "location": "Mountaintops of the Giants",
+      "link": "https://eldenring.wiki.fextralife.com/Millicent",
+      "npc": "Millicent"
+    },
+    {
+      "description": "01 Use the golden summon sign, and help her fight 4 NPC invaders known as Millicent’s Sisters.",
+      "completed": 0,
+      "location": "Mountaintops of the Giants",
+      "link": "https://eldenring.wiki.fextralife.com/Millicent",
+      "npc": "Millicent"
+    },
+    {
+      "description": "01 After the fight, you'll get the Rotten Winged Sword Insignia.",
+      "completed": 0,
+      "location": "Mountaintops of the Giants",
+      "link": "https://eldenring.wiki.fextralife.com/Millicent",
+      "npc": "Millicent"
+    },
+    {
+      "description": "02 Use the red summon sign to challenge her in her world.",
+      "completed": 0,
+      "location": "Mountaintops of the Giants",
+      "link": "https://eldenring.wiki.fextralife.com/Millicent",
+      "npc": "Millicent"
+    },
+    {
+      "description": "02 After the fight, you'll get Millicent's Prosthesis. [ENDS QUESTLINE]",
+      "completed": 0,
+      "location": "Mountaintops of the Giants",
+      "link": "https://eldenring.wiki.fextralife.com/Millicent",
+      "npc": "Millicent"
+    },
+    {
+      "description": "After invasion, Reset, she will be near summoning sign was, laying by the pool of scarlet rot down below.",
+      "completed": 0,
+      "location": "Mountaintops of the Giants",
+      "link": "https://eldenring.wiki.fextralife.com/Millicent",
+      "npc": "Millicent"
+    },
+    {
+      "description": "Exhaust her dialog, Reset. She'll be dead, and you can loot the Unalloyed Gold Needle.",
+      "completed": 0,
+      "location": "Mountaintops of the Giants",
+      "link": "https://eldenring.wiki.fextralife.com/Millicent",
+      "npc": "Millicent"
+    },
+    {
+      "description": "Kill Malenia, Blade of Miquella.",
+      "completed": 0,
+      "location": "Miquella's Haligtree & Elphael, Brace of the Haligtree",
+      "link": "https://eldenring.wiki.fextralife.com/Millicent",
+      "npc": "Millicent"
+    },
+    {
+      "description": "In the room where you fight Malenia, use the Unalloyed Gold Needle on the Scarlet Aeonia Malenia left behind.",
+      "completed": 0,
+      "location": "Miquella's Haligtree & Elphael, Brace of the Haligtree",
+      "link": "https://eldenring.wiki.fextralife.com/Millicent",
+      "npc": "Millicent"
+    },
+    {
+      "description": "You'll get Miquella’s Needle. Use in Crumbling Farum Azula to reverse the Lord of Frenzied Flame Ending.",
+      "completed": 0,
+      "location": "Crumbling Farum Azula",
+      "link": "https://eldenring.wiki.fextralife.com/Millicent",
+      "npc": "Millicent"
+    }
+  ],
+  "Blackguard Big Boggart": [
+    {
+      "description": "Boggart is introduced as the thief from Rya's questline.",
+      "completed": 0,
+      "location": "Liurnia of the Lakes",
+      "link": "https://eldenring.wiki.fextralife.com/Blackguard+Big+Boggart",
+      "npc": "Blackguard Big Boggart"
+    },
+    {
+      "description": "Buy the necklace from him for 1,000 Runes.",
+      "completed": 0,
+      "location": "Liurnia of the Lakes",
+      "link": "https://eldenring.wiki.fextralife.com/Blackguard+Big+Boggart",
+      "npc": "Blackguard Big Boggart"
+    },
+    {
+      "description": "Note: You must initiate the quest from Rya before reaching Volcano Manor or you're unable to progress.",
+      "completed": 0,
+      "location": "Liurnia of the Lakes",
+      "link": "https://eldenring.wiki.fextralife.com/Blackguard+Big+Boggart",
+      "npc": "Blackguard Big Boggart"
+    },
+    {
+      "description": "Buy Boiled Prawns from him. This befriends him and progresses his questline.",
+      "completed": 0,
+      "location": "Liurnia of the Lakes",
+      "link": "https://eldenring.wiki.fextralife.com/Blackguard+Big+Boggart",
+      "npc": "Blackguard Big Boggart"
+    },
+    {
+      "description": "He can be summoned for the Magma Wyrm Makar fight.",
+      "completed": 0,
+      "location": "Liurnia of the Lakes",
+      "link": "https://eldenring.wiki.fextralife.com/Blackguard+Big+Boggart",
+      "npc": "Blackguard Big Boggart"
+    },
+    {
+      "description": "He later moves to Leyndell in the outer moat nearest the Capital Rampart, selling Boiled Crabs.",
+      "completed": 0,
+      "location": "Leyndell Royal Capital",
+      "link": "https://eldenring.wiki.fextralife.com/Blackguard+Big+Boggart",
+      "npc": "Blackguard Big Boggart"
+    },
+    {
+      "description": "At the Leyndell moat, he will warn the player about his time in prison with the Dung Eater. Exhaust dialogue.",
+      "completed": 0,
+      "location": "Leyndell Royal Capital",
+      "link": "https://eldenring.wiki.fextralife.com/Blackguard+Big+Boggart",
+      "npc": "Blackguard Big Boggart"
+    },
+    {
+      "description": "Progress Dung Eater's questline till he is at the point where he will be waiting in the outer moat:",
+      "completed": 0,
+      "location": "Leyndell Royal Capital",
+      "link": "https://eldenring.wiki.fextralife.com/Blackguard+Big+Boggart",
+      "npc": "Blackguard Big Boggart"
+    },
+    {
+      "description": "And the blackguard is present in Leyndell. Exhaust Big Boggart's dialogue, he says the Dung Eater nearby.",
+      "completed": 0,
+      "location": "Leyndell Royal Capital",
+      "link": "https://eldenring.wiki.fextralife.com/Blackguard+Big+Boggart",
+      "npc": "Blackguard Big Boggart"
+    },
+    {
+      "description": "If you are invaded before Boggart moves there, you will be unable to get a Seedbed Curse from his body.",
+      "completed": 0,
+      "location": "Leyndell Royal Capital",
+      "link": "https://eldenring.wiki.fextralife.com/Blackguard+Big+Boggart",
+      "npc": "Blackguard Big Boggart"
+    },
+    {
+      "description": "Reset, and you must interact with the now-wounded blackguard to trigger the invasion.",
+      "completed": 0,
+      "location": "Leyndell Royal Capital",
+      "link": "https://eldenring.wiki.fextralife.com/Blackguard+Big+Boggart",
+      "npc": "Blackguard Big Boggart"
+    },
+    {
+      "description": "A Seedbed Curse will be found on Big Boggart's body at the end of his questline, along with his drops.",
+      "completed": 0,
+      "location": "Leyndell Royal Capital",
+      "link": "https://eldenring.wiki.fextralife.com/Blackguard+Big+Boggart",
+      "npc": "Blackguard Big Boggart"
+    }
+  ],
+  "Latenna": [
+    {
+      "description": "Latenna can be found at Slumbering Wolf's Shack",
+      "completed": 0,
+      "location": "Liurnia of the Lakes",
+      "link": "https://eldenring.wiki.fextralife.com/Latenna",
+      "npc": "Latenna"
+    },
+    {
+      "description": "Latenna's questline involves the NPC, Albus. Speak to Albus for Haligtree Secret Medallion (Right). Roll into.",
+      "completed": 0,
+      "location": "Liurnia of the Lakes",
+      "link": "https://eldenring.wiki.fextralife.com/Latenna",
+      "npc": "Latenna"
+    },
+    {
+      "description": "Return Medallion to Latenna. Promise to take Latenna to Haligtree. She joins and becomes Spirit Ash summon.",
+      "completed": 0,
+      "location": "Liurnia of the Lakes",
+      "link": "https://eldenring.wiki.fextralife.com/Latenna",
+      "npc": "Latenna"
+    },
+    {
+      "description": "She will also hint at the location of the Haligtree Secret Medallion (Left).",
+      "completed": 0,
+      "location": "Caelid",
+      "link": "https://eldenring.wiki.fextralife.com/Latenna",
+      "npc": "Latenna"
+    },
+    {
+      "description": "Upon reaching Apostate Derelict, summon Latenna at the foot of the giant Albinauric.",
+      "completed": 0,
+      "location": "Consecrated Snowfield",
+      "link": "https://eldenring.wiki.fextralife.com/Latenna",
+      "npc": "Latenna"
+    }
+  ],
+  "Ensha": [
+    {
+      "description": "Upon first interaction, players obtain the What Do You Want? Gesture from Ensha of the Royal Remains.",
+      "completed": 0,
+      "location": "Roundtable Hold",
+      "link": "https://eldenring.wiki.fextralife.com/Ensha",
+      "npc": "Ensha"
+    },
+    {
+      "description": "Collect the Haligtree Secret Medallion (Right **Or Left**), Ensha will invade in Roundtable Hold.",
+      "completed": 0,
+      "location": "Liurnia of the Lakes",
+      "link": "https://eldenring.wiki.fextralife.com/Ensha",
+      "npc": "Ensha"
+    },
+    {
+      "description": "Defeating Ensha rewards the Royal Remains Set from where he used to stand.",
+      "completed": 0,
+      "location": "Roundtable Hold",
+      "link": "https://eldenring.wiki.fextralife.com/Ensha",
+      "npc": "Ensha"
+    }
+  ],
+  "Sorcerer Rogier": [
+    {
+      "description": "First met in Stormveil Castle by the altar of the Chapel.",
+      "completed": 0,
+      "location": "Limgrave",
+      "link": "https://eldenring.wiki.fextralife.com/Sorcerer+Rogier",
+      "npc": "Sorcerer Rogier"
+    },
+    {
+      "description": "Kill Godrick he moves to Roundtable Hold. NOTE: Rogier will die if you speak with Ranni before finishing his quest!",
+      "completed": 0,
+      "location": "Limgrave",
+      "link": "https://eldenring.wiki.fextralife.com/Sorcerer+Rogier",
+      "npc": "Sorcerer Rogier"
+    },
+    {
+      "description": "At Stormveil Castle, examine Rogier's bloodstain near the rotting face, in the area where Root Monster spawns.",
+      "completed": 0,
+      "location": "Limgrave",
+      "link": "https://eldenring.wiki.fextralife.com/Sorcerer+Rogier",
+      "npc": "Sorcerer Rogier"
+    },
+    {
+      "description": "Ask Rogier about the face.",
+      "completed": 0,
+      "location": "Roundtable Hold",
+      "link": "https://eldenring.wiki.fextralife.com/Sorcerer+Rogier",
+      "npc": "Sorcerer Rogier"
+    },
+    {
+      "description": "Talk to Fia, let her to hold you. Exhaust lines Talk in secret, Did you know? and About the Black Knifeprint.",
+      "completed": 0,
+      "location": "Roundtable Hold",
+      "link": "https://eldenring.wiki.fextralife.com/Sorcerer+Rogier",
+      "npc": "Sorcerer Rogier"
+    },
+    {
+      "description": "Obtain the Black Knifeprint from the Black Knife Catacombs.",
+      "completed": 0,
+      "location": "Liurnia of the Lakes",
+      "link": "https://eldenring.wiki.fextralife.com/Sorcerer+Rogier",
+      "npc": "Sorcerer Rogier"
+    },
+    {
+      "description": "Return the Knifeprint to Rogier. Reload the area and he will ask you to look for Ranni.",
+      "completed": 0,
+      "location": "Liurnia of the Lakes",
+      "link": "https://eldenring.wiki.fextralife.com/Sorcerer+Rogier",
+      "npc": "Sorcerer Rogier"
+    },
+    {
+      "description": "Upon talking to Ranni she tells the player to leave. Return to Rogier who suggests becoming Ranni's vassal.",
+      "completed": 0,
+      "location": "Liurnia of the Lakes",
+      "link": "https://eldenring.wiki.fextralife.com/Sorcerer+Rogier",
+      "npc": "Sorcerer Rogier"
+    },
+    {
+      "description": "Ranni allows player to become her vassal. Returning to Rogier results in him falling into a deep slumber.",
+      "completed": 0,
+      "location": "Roundtable Hold",
+      "link": "https://eldenring.wiki.fextralife.com/Sorcerer+Rogier",
+      "npc": "Sorcerer Rogier"
+    },
+    {
+      "description": "Soon after Rogier will die, leaving behind his set and a letter. **Location**",
+      "completed": 0,
+      "location": "Roundtable Hold",
+      "link": "https://eldenring.wiki.fextralife.com/Sorcerer+Rogier",
+      "npc": "Sorcerer Rogier"
+    }
+  ],
+  "Diallos": [
+    {
+      "description": "Exhaust Diallos' dialogue at Roundtable hold.",
+      "completed": 0,
+      "location": "Roundtable Hold",
+      "link": "https://eldenring.wiki.fextralife.com/Diallos",
+      "npc": "Diallos"
+    },
+    {
+      "description": "Exhaust Diallos' dialogue northwest of the Academy Gate Town Site of Grace.",
+      "completed": 0,
+      "location": "Liurnia of the Lakes",
+      "link": "https://eldenring.wiki.fextralife.com/Diallos",
+      "npc": "Diallos"
+    },
+    {
+      "description": "Join Volcano Manor, but don't finish its questline since this will cause Diallos to disappear. [ENDS QUESTLINE]",
+      "completed": 0,
+      "location": "Mt. Gelmir",
+      "link": "https://eldenring.wiki.fextralife.com/Diallos",
+      "npc": "Diallos"
+    },
+    {
+      "description": "Exhaust Diallos' dialogue in Volcano Manor's drawing room.",
+      "completed": 0,
+      "location": "Mt. Gelmir",
+      "link": "https://eldenring.wiki.fextralife.com/Diallos",
+      "npc": "Diallos"
+    },
+    {
+      "description": "Finish Volcano Manor's questline, or defeat Rykard.",
+      "completed": 0,
+      "location": "Mt. Gelmir",
+      "link": "https://eldenring.wiki.fextralife.com/Diallos",
+      "npc": "Diallos"
+    },
+    {
+      "description": "After progressing the Jarburg questline he will appear in one of the shacks, tending to Jar Bairn.",
+      "completed": 0,
+      "location": "Liurnia of the Lakes",
+      "link": "https://eldenring.wiki.fextralife.com/Diallos",
+      "npc": "Diallos"
+    },
+    {
+      "description": "Revisiting Jarburg after sometime will have you find the town damaged; Diallos will be there.",
+      "completed": 0,
+      "location": "Liurnia of the Lakes",
+      "link": "https://eldenring.wiki.fextralife.com/Diallos",
+      "npc": "Diallos"
+    },
+    {
+      "description": "Exhaust Diallos' dialogue. Then, exhaust Jar-Bairn's dialogue. Reset",
+      "completed": 0,
+      "location": "Liurnia of the Lakes",
+      "link": "https://eldenring.wiki.fextralife.com/Diallos",
+      "npc": "Diallos"
+    },
+    {
+      "description": "Jar-Bairn will move over Diallos. Interact, then Reset.",
+      "completed": 0,
+      "location": "Liurnia of the Lakes",
+      "link": "https://eldenring.wiki.fextralife.com/Diallos",
+      "npc": "Diallos"
+    },
+    {
+      "description": "Diallos will disappear, leaving Diallos's Mask, Hoslow's Petal Whip, and a Numen's Rune.",
+      "completed": 0,
+      "location": "Liurnia of the Lakes",
+      "link": "https://eldenring.wiki.fextralife.com/Diallos",
+      "npc": "Diallos"
+    }
+  ],
+  "Jar Bairn": [
+    {
+      "description": "Jar Bairn can be found in Jarburg and will ask you to become Potentate, but deems your hands too rough.",
+      "completed": 0,
+      "location": "Liurnia of the Lakes",
+      "link": "https://eldenring.wiki.fextralife.com/Jar+Bairn",
+      "npc": "Jar Bairn"
+    },
+    {
+      "description": "Reload the area and talk to Jar Bairn multiple times, until their dialogue is exhausted.",
+      "completed": 0,
+      "location": "Liurnia of the Lakes",
+      "link": "https://eldenring.wiki.fextralife.com/Jar+Bairn",
+      "npc": "Jar Bairn"
+    },
+    {
+      "description": "(OPTIONAL) Progress Diallos's questline in Volcano Manor until he leaves will cause him to move to Jarburg.",
+      "completed": 0,
+      "location": "Mt. Gelmir",
+      "link": "https://eldenring.wiki.fextralife.com/Jar+Bairn",
+      "npc": "Jar Bairn"
+    },
+    {
+      "description": "- Killing Rykard before completing the questline and then talking to Diallos will also cause him to move.",
+      "completed": 0,
+      "location": "Mt. Gelmir",
+      "link": "https://eldenring.wiki.fextralife.com/Jar+Bairn",
+      "npc": "Jar Bairn"
+    },
+    {
+      "description": "Reset, talk to Diallos and Jar Bairn in Jarburg:",
+      "completed": 0,
+      "location": "Liurnia of the Lakes",
+      "link": "https://eldenring.wiki.fextralife.com/Jar+Bairn",
+      "npc": "Jar Bairn"
+    },
+    {
+      "description": "until Diallos tells you not to pity him and Jar Bairn laments they'd like to have a stronger Potentate.",
+      "completed": 0,
+      "location": "Liurnia of the Lakes",
+      "link": "https://eldenring.wiki.fextralife.com/Jar+Bairn",
+      "npc": "Jar Bairn"
+    },
+    {
+      "description": "Reset, Jar Bairn will move to the middle of the road. Speak to them, then speak to Diallos.",
+      "completed": 0,
+      "location": "Liurnia of the Lakes",
+      "link": "https://eldenring.wiki.fextralife.com/Jar+Bairn",
+      "npc": "Jar Bairn"
+    },
+    {
+      "description": "Reload the area, and speak to Jar Bairn once more.",
+      "completed": 0,
+      "location": "Liurnia of the Lakes",
+      "link": "https://eldenring.wiki.fextralife.com/Jar+Bairn",
+      "npc": "Jar Bairn"
+    },
+    {
+      "description": "Reset, speak to Jar Bairn. Give them Alexander's Innards, from Alexander's questline, Reset.",
+      "completed": 0,
+      "location": "Liurnia of the Lakes",
+      "link": "https://eldenring.wiki.fextralife.com/Jar+Bairn",
+      "npc": "Jar Bairn"
+    },
+    {
+      "description": "Collect Companion Jar talisman from Jar Bairn's last spot and Diallos's items from his last spot.",
+      "completed": 0,
+      "location": "Liurnia of the Lakes",
+      "link": "https://eldenring.wiki.fextralife.com/Jar+Bairn",
+      "npc": "Jar Bairn"
+    },
+    {
+      "description": "Note: Not to confuse Juno Hoslow who is Diallos's brother.",
+      "completed": 0,
+      "location": "Liurnia of the Lakes",
+      "link": "https://eldenring.wiki.fextralife.com/Jar+Bairn",
+      "npc": "Jar Bairn"
+    }
+  ],
+  "Tanith": [
+    {
+      "description": "Exhaust dialogue when first encountered in Volcano Manor, to get the Drawing-Room Key.",
+      "completed": 0,
+      "location": "Mt. Gelmir",
+      "link": "https://eldenring.wiki.fextralife.com/Tanith",
+      "npc": "Tanith"
+    },
+    {
+      "description": "Enter room with Rya, get letter and talk to Tanith again, she will tell you to assassinate Old Knight Istvan.",
+      "completed": 0,
+      "location": "Mt. Gelmir",
+      "link": "https://eldenring.wiki.fextralife.com/Tanith",
+      "npc": "Tanith"
+    },
+    {
+      "description": "Invade Istvan at Stormhill and kill him, return to Tanith to get the Magma Shot sorcery.",
+      "completed": 0,
+      "location": "Limgrave",
+      "link": "https://eldenring.wiki.fextralife.com/Tanith",
+      "npc": "Tanith"
+    },
+    {
+      "description": "Reload the area to find another Letter, this time to assassinate Rileigh the Idle in Altus Plateau.",
+      "completed": 0,
+      "location": "Altus Plateau",
+      "link": "https://eldenring.wiki.fextralife.com/Tanith",
+      "npc": "Tanith"
+    },
+    {
+      "description": "Return to Tanith, she will reward you with the Serpentbone Blade.",
+      "completed": 0,
+      "location": "Mt. Gelmir",
+      "link": "https://eldenring.wiki.fextralife.com/Tanith",
+      "npc": "Tanith"
+    },
+    {
+      "description": "Reload the area, talk to her again to be teleported to the entrance of Rykard's boss fight.",
+      "completed": 0,
+      "location": "Mt. Gelmir",
+      "link": "https://eldenring.wiki.fextralife.com/Tanith",
+      "npc": "Tanith"
+    },
+    {
+      "description": "After beating Rykard, return to Tanith and speak to her again.",
+      "completed": 0,
+      "location": "Mt. Gelmir",
+      "link": "https://eldenring.wiki.fextralife.com/Tanith",
+      "npc": "Tanith"
+    },
+    {
+      "description": "Reload the area, she will now be in Rykard's boss area, feasting on his corpse. You can give her the Dancer's Castanets from Patches.",
+      "completed": 0,
+      "location": "Mt. Gelmir",
+      "link": "https://eldenring.wiki.fextralife.com/Tanith",
+      "npc": "Tanith"
+    },
+    {
+      "description": "Killing Tanith rewards you with the Consort's Set.",
+      "completed": 0,
+      "location": "Mt. Gelmir",
+      "link": "https://eldenring.wiki.fextralife.com/Tanith",
+      "npc": "Tanith"
+    },
+    {
+      "description": "After killing her, you will be invaded by her bodyguard.",
+      "completed": 0,
+      "location": "Mt. Gelmir",
+      "link": "https://eldenring.wiki.fextralife.com/Tanith",
+      "npc": "Tanith"
+    }
+  ]
+}
